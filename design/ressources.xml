@@ -1,0 +1,24 @@
+<frame id="367:772" name="Ressources" x="0" y="0" width="1920" height="2595">
+  <!-- get_screenshot a échoué (quota Figma atteint) : positions verticales estimées à partir des auto-layouts -->
+  <frame id="367:773" name="Calque_1-2" x="1026.5" y="191" width="764" height="683" note="forme pêche décorative (même que le hero de l'accueil)" />
+  <frame id="454:9661" name="Ressources" x="100" y="192" width="1720" height="414">
+    <frame id="I454:9661;454:9510" name="onglets" x="0" y="0" width="1720" height="52" note="E-Book (actif, fond title) / Blog (contour title), rayon 48" />
+    <frame id="I454:9661;454:9515" name="cartes" x="0" y="100" width="1720" height="314">
+      <frame id="I454:9661;454:9516" name="carte E-book 1" x="0" y="0" width="557" height="314" note="fond blanc, bordure rose, rayon 34.2, padding 16, image 200 px (Frame 37), titre 26, pastille Parentalité, trait, texte 4 lignes, bouton rose Commencer gratuitement" />
+      <frame id="I454:9661;454:9528" name="carte E-book 1" x="581" y="0" width="557" height="314" />
+      <frame id="I454:9661;454:9540" name="carte E-book 1" x="1162" y="0" width="557" height="314" />
+    </frame>
+  </frame>
+  <frame id="367:1340" name="contact" x="100" y="750" width="1720" height="1032">
+    <text id="367:1342" name="Échanger avec Maëva - coaching parental individuel, questions sur Bappoum et demandes d'accompagnement" />
+    <text id="367:1343" name="Que tu cherches un abonnement, un coaching, une animation pour ton événement ou une intervention en entreprise — dis-nous ce dont tu as besoin, on revient vers toi sous 48h." />
+    <text id="367:1347" name="Poser une question sur l’accompagnement parental" />
+    <frame id="367:1348" name="formulaire" note="fond label, bordure rose, rayon 48, padding 48" />
+    <text id="367:1380" name="Réserver votre séance découverte de coaching parental,  15 minutes offertes" />
+    <rounded-rectangle id="367:1381" name="image 167" note="calendrier (même image que l'accueil 394:2930)" />
+  </frame>
+  <frame id="367:1382" name="cta rose" x="0" y="1926" width="1920" height="669">
+    <text id="367:1385" name="Rejoindre Bavardons Parentalité : coaching parental, ateliers parents-enfants et plateforme Bappoum" />
+    <text id="367:1386" name="Rejoins les 250 familles qui avancent chaque mois avec Bavardons Parentalité : un accompagnement parental bienveillant, concret et adapté à ta réalité." />
+  </frame>
+</frame>

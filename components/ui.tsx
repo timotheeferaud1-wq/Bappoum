@@ -9,7 +9,7 @@ export const LINKS = {
   booking: "/#contact",
 };
 
-type Variant = "rose" | "rose-outline" | "jaune" | "jaune-outline" | "blanc";
+type Variant = "rose" | "rose-outline" | "jaune" | "jaune-outline" | "blanc" | "title";
 
 export function Paw({ className = "" }: { className?: string }) {
   return <span className={`paw ${className}`} aria-hidden />;

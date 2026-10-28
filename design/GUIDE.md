@@ -32,7 +32,7 @@ cd /home/claude/work/<ta-route>
 npm run build && (npx next start -p <ton-port> > /tmp/<ta-route>.log 2>&1 &)
 ```
 À la fin, recopie UNIQUEMENT tes fichiers vers `/home/claude/bappoum` (app/<route>, components/<route>, public/img/<route>, design/<route>.*).
-Pour arrêter ton serveur : `kill $(lsof -t -i:<ton-port>)` (n'utilise pas `pkill -f`, ça tue ton propre shell).
+Pour arrêter ton serveur : `fuser -k <ton-port>/tcp` (n'utilise pas `pkill -f`, ça tue ton propre shell).
 
 ## Lire la maquette (appels Figma limités : 6 à 8 appels maximum par page)
 Les fichiers d'origine ne sont PAS téléchargeables (figma.com est bloqué depuis le shell) : n'essaie pas `curl` sur les URL d'assets.

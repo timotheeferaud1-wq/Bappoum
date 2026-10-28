@@ -1,0 +1,211 @@
+/* =========================================================
+   Page Accompagnements — sections (maquette Figma « Accompagnement », 1920 px)
+   ========================================================= */
+
+.orange { color: var(--orange); }
+.rose { color: var(--rose); }
+.h4 { font-size: var(--fs-h4); line-height: 1.3; font-weight: 500; color: var(--txt); }
+.anchor { scroll-margin-top: 140px; }
+.pill { padding: 0 12px; gap: 12px; background: #fdf0e2; flex-wrap: wrap; }
+.pill :global(.avatars) { padding: 10px 0; }
+.btns { display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; }
+.btnOutline:global(.btn--jaune-outline) { color: var(--orange); font-weight: 400; }
+.icon16 {
+  flex: none; display: inline-block; width: 16px; height: 16px; margin-top: 5px; background: var(--rose);
+  -webkit-mask: url(/img/common/paw.png) center / contain no-repeat; mask: url(/img/common/paw.png) center / contain no-repeat;
+}
+
+/* ---------- Intro ---------- */
+.intro { margin-top: 64px; display: flex; flex-direction: column; align-items: center; gap: 64px; }
+.introHead { display: flex; flex-direction: column; align-items: center; gap: 48px; }
+.introTitle { display: flex; flex-direction: column; align-items: center; gap: 16px; }
+.introTitle h1 { max-width: 853px; }
+.introLead { max-width: 852px; }
+.cartes { width: 100%; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 48px; }
+.carte {
+  display: flex; flex-direction: column; gap: 24px; padding: 24px; border-radius: var(--radius-lg);
+  background: var(--label); box-shadow: -4px 4px 34px rgb(235 77 148 / 0.05); transition: transform .15s ease;
+}
+.carte:hover { transform: translateY(-2px); }
+.carte:focus-visible { outline: 3px solid var(--title); outline-offset: 2px; }
+.carte img { width: 100%; height: 150px; object-fit: cover; border-radius: var(--radius-lg); }
+.carteBody { display: flex; flex-direction: column; gap: 12px; }
+.carteTitle { display: flex; gap: 10px; align-items: center; }
+.carteTitle h2 { flex: 1; }
+.arrow { flex: none; }
+
+/* ---------- Coaching ---------- */
+.coaching { display: grid; grid-template-columns: minmax(0, 882fr) minmax(0, 742fr); gap: 96px; align-items: center; }
+.coachCard {
+  display: flex; flex-direction: column; padding: 48px; border-radius: var(--radius-lg);
+  background: linear-gradient(180deg, #fdeee6 0%, #fef0e8 100%); box-shadow: -4px 4px 34px rgb(235 77 148 / 0.05);
+}
+.coachTop { display: flex; gap: 48px; align-items: flex-start; margin-bottom: 48px; }
+.coachTop h2 { flex: 1; }
+.maeva { flex: none; width: 270px; height: 270px; object-fit: cover; border-radius: var(--radius-lg); }
+.coachCard > p { margin-bottom: 58px; }
+.themes { display: flex; flex-direction: column; align-items: center; gap: 48px; }
+.themesTitle { font-size: var(--fs-h3); line-height: 1.3; font-weight: 500; color: var(--txt); }
+.themeList {
+  list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 24px 48px;
+}
+.themeRose, .themeOrange {
+  display: flex; align-items: center; gap: 15px; padding: 0 15px;
+  font-size: var(--fs-h4); line-height: 1.3; font-weight: 500;
+}
+.themeRose { color: #e51a75; }
+.themeOrange { color: var(--orange); }
+.zz {
+  flex: none; width: 28px; height: 32px; background: currentColor;
+  -webkit-mask: url(/img/accompagnements/zz.png) center / contain no-repeat; mask: url(/img/accompagnements/zz.png) center / contain no-repeat;
+}
+
+/* ---------- Ateliers ---------- */
+.ateliers { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 124px; align-items: center; }
+.ateliersImgs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 48px; align-items: end; align-self: stretch; }
+.ateliersImgs img { width: 100%; object-fit: cover; border-radius: var(--radius); }
+.atelierSmall { height: 341px; object-position: 30% 70%; }
+.atelierBig { height: 100%; min-height: 438px; }
+.ateliersText { display: flex; flex-direction: column; gap: 48px; align-items: flex-start; }
+
+/* ---------- Événements ---------- */
+.events { display: grid; grid-template-columns: minmax(0, 991fr) minmax(0, 605fr); gap: 124px; align-items: stretch; }
+.eventsMain { display: flex; flex-direction: column; gap: 48px; }
+.eventsHead { display: flex; flex-direction: column; gap: 16px; align-items: flex-start; }
+.eventsBody { display: flex; flex-direction: column; gap: 24px; }
+.eventsTypes { display: flex; flex-direction: column; gap: 12px; }
+.types { font-size: var(--fs-p); line-height: 33.8px; font-weight: 600; color: var(--orange); }
+.eventsGallery { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 16px; }
+.eventsGallery img { width: 100%; height: 194px; object-fit: cover; border-radius: var(--radius); }
+.eventsSide { display: flex; flex-direction: column; gap: 24px; justify-content: center; }
+.eventsImg { width: 100%; flex: 1; min-height: 0; height: 402px; object-fit: cover; border-radius: var(--radius-lg); }
+.eventsBtns { display: flex; flex-direction: column; gap: 12px; }
+.eventsBtns :global(.btn) { width: 100%; }
+
+/* ---------- Bappoum ---------- */
+.bappoum {
+  display: flex; gap: 64px; padding: 48px; background: var(--peach); border: 1px solid var(--rose);
+  border-radius: 48px; box-shadow: -4px 4px 34px rgb(235 77 148 / 0.05);
+}
+.bappoumMain { flex: 1 1 0; min-width: 0; display: flex; flex-direction: column; gap: 48px; }
+.bappoumMain h2 { color: var(--rose); margin-right: -4px; }
+.brWide { display: none; }
+@media (min-width: 1600px) { .brWide { display: inline; } }
+.bappoumBody { display: flex; flex-direction: column; gap: 24px; }
+.changeBox {
+  display: flex; flex-direction: column; gap: 24px; padding: 24px; border-radius: var(--radius-lg);
+  background: var(--blanc); box-shadow: -4px 4px 34px rgb(235 77 148 / 0.05);
+}
+.quote { margin: 0; padding: 12px; border-left: 2px solid var(--rose); border-radius: var(--radius); background: var(--label); color: #e51a75; }
+.changeList { display: flex; flex-direction: column; gap: 12px; }
+.checks, .inclus { list-style: none; margin: 0; padding: 0; }
+.checks { display: flex; flex-direction: column; gap: 6px; }
+.checks li, .inclus li { display: flex; gap: 10px; align-items: flex-start; }
+.bappoumSide { flex: 0 1 729px; min-width: 0; display: flex; flex-direction: column; gap: 24px; }
+.bappoumImg { width: 100%; flex: 1; min-height: 280px; object-fit: cover; border-radius: var(--radius-lg); }
+.inclus { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px; padding: 24px 0 12px; border-top: 1px solid rgb(235 77 148 / 0.1); }
+.inclus li { gap: 6px; }
+.bappoumCta { display: flex; gap: 12px; align-items: center; }
+.bappoumCta p { flex: 1; text-align: center; }
+
+/* ---------- Tarifs ---------- */
+.tarifsHead { display: flex; gap: 64px; align-items: flex-end; }
+.tarifsTitle { flex: none; display: flex; flex-direction: column; gap: 16px; align-items: flex-start; }
+.tarifsTitle h2 { max-width: 799px; }
+.tarifsHead > p { flex: 1; min-width: 0; padding-bottom: 6px; }
+.tabs {
+  display: flex; gap: 24px; align-items: center; width: max-content; margin: 64px auto 24px; padding: 12px;
+  background: #fffcf5; border: 1px solid var(--title); border-radius: 48px;
+}
+.tab, .tabActive {
+  font: inherit; font-size: var(--fs-p); line-height: 26px; cursor: pointer; border-radius: 24px;
+  border: 1px solid transparent; padding: 12px 24px; background: none; color: var(--title);
+}
+.tab { padding: 12px 12px 12px 0; }
+.tab:hover { text-decoration: underline; }
+.tabActive { background: var(--title); border-color: var(--title); color: var(--blanc); }
+.tab:focus-visible, .tabActive:focus-visible { outline: 3px solid var(--rose); outline-offset: 2px; }
+.tarifsPanel { padding: 48px; border-radius: 48px; background: #fdf0e2; }
+.tarifsGrid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 24px; }
+.tarif {
+  display: flex; flex-direction: column; gap: 16px; padding: 16px; border: 1px solid var(--jaune);
+  border-radius: 34px; background: var(--blanc);
+}
+.tarif img { width: 100%; height: 230px; object-fit: cover; border-radius: var(--radius-lg); }
+.tarifBody { flex: 1; display: flex; flex-direction: column; gap: 23px; justify-content: space-between; }
+.tarifInfo { display: flex; flex-direction: column; gap: 6px; padding-bottom: 12px; border-bottom: 1px solid rgb(113 15 58 / 0.3); }
+.tarifChip {
+  align-self: flex-start; padding: 6px 11px; border-radius: 23px; background: var(--label);
+  color: var(--orange); font-size: var(--fs-p); line-height: 26px;
+}
+.tarifTitle { font-size: var(--fs-h4); line-height: 1.3; font-weight: 500; color: var(--title); }
+.tarifBtn { width: 100%; }
+
+/* ---------- Contact ---------- */
+.contactHead { display: flex; flex-direction: column; gap: 12px; margin-bottom: 48px; align-items: center; }
+.contactHead h2 { max-width: 1300px; }
+.contactHead p { align-self: stretch; }
+.calendar { width: 100%; height: auto; aspect-ratio: 812 / 668; object-fit: cover; border-radius: var(--radius-lg); margin-top: 12px; }
+
+/* =========================================================
+   Responsive
+   ========================================================= */
+@media (max-width: 1600px) {
+  .tarifsGrid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .bappoumSide { flex-basis: 46%; }
+  .inclus { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 1280px) {
+  .cartes { gap: 24px; }
+  .coaching { grid-template-columns: 1fr; gap: 64px; }
+  .ateliers, .events { gap: 48px; }
+  .events { grid-template-columns: 1fr; }
+  .eventsImg { height: auto; aspect-ratio: 605 / 402; flex: none; }
+  .bappoum { flex-direction: column; gap: 48px; }
+  .bappoumSide { flex: none; }
+  .bappoumImg { flex: none; aspect-ratio: 729 / 366; min-height: 0; }
+  .tarifsHead { flex-direction: column; align-items: flex-start; gap: 24px; }
+  .tarifsTitle { flex: none; }
+}
+
+@media (max-width: 960px) {
+  .cartes { grid-template-columns: 1fr; max-width: 560px; }
+  .ateliers { grid-template-columns: 1fr; }
+  .atelierSmall { height: 260px; }
+  .atelierBig { min-height: 340px; }
+  .tarifsGrid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 720px) {
+  .intro { margin-top: 32px; gap: 40px; }
+  .introHead { gap: 28px; }
+  .pill { font-size: 16px; justify-content: center; text-align: center; }
+  .coachCard { padding: 24px; }
+  .coachTop { flex-direction: column-reverse; gap: 24px; margin-bottom: 24px; }
+  .maeva { width: 160px; height: 160px; }
+  .coachCard > p { margin-bottom: 32px; }
+  .btns, .btns :global(.btn) { width: 100%; }
+  .themes { gap: 24px; }
+  .themeList { flex-direction: column; align-items: flex-start; gap: 16px; }
+  .themeRose, .themeOrange { padding: 0; font-size: 20px; }
+  .ateliersImgs { gap: 16px; }
+  .atelierSmall { height: 200px; }
+  .atelierBig { min-height: 260px; }
+  .ateliersText { gap: 28px; }
+  .eventsMain { gap: 28px; }
+  .types { line-height: 1.4; }
+  .eventsGallery { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+  .eventsGallery img { height: 120px; }
+  .bappoum { padding: 24px; border-radius: 32px; gap: 32px; }
+  .bappoumMain { gap: 28px; }
+  .changeBox { padding: 16px; }
+  .inclus { grid-template-columns: 1fr; gap: 10px; }
+  .bappoumCta { flex-direction: column; align-items: stretch; }
+  .tabs { margin-top: 40px; }
+  .tarifsPanel { padding: 16px; border-radius: 32px; }
+  .tarifsGrid { grid-template-columns: 1fr; gap: 16px; }
+  .tarif { border-radius: 28px; }
+  .tarif img { height: 200px; }
+  .contactHead h2 { text-align: left; }
+}

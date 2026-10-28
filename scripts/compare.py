@@ -7,10 +7,11 @@ Produit une image côte à côte (gauche = maquette, droite = site) réduite à 
 éventuellement limitée à une bande verticale [from, to] pour inspecter une section.
 Le serveur Next doit tourner (npx next start -p 3200).
 """
-import sys, asyncio
+import sys, asyncio, os, tempfile
 from PIL import Image
 from playwright.async_api import async_playwright
 
+TMP = os.path.join(tempfile.gettempdir(), f"_site_{os.getpid()}.png")
 args = sys.argv[1:]
 path, design, out = args[0], args[1], args[2]
 port = args[args.index("--port") + 1] if "--port" in args else "3200"
@@ -30,11 +31,11 @@ async def shot():
         await pg.wait_for_timeout(800)
         await pg.evaluate("window.scrollTo(0, 0)")
         await pg.wait_for_timeout(300)
-        await pg.screenshot(path="/tmp/_site.png", full_page=True)
+        await pg.screenshot(path=TMP, full_page=True)
         await b.close()
 
 asyncio.run(shot())
-site = Image.open("/tmp/_site.png").convert("RGB")
+site = Image.open(TMP).convert("RGB")
 if width != 1920:
     site.save(out); print("site only", site.size); sys.exit()
 d = Image.open(design).convert("RGB")

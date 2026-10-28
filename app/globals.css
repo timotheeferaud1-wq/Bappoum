@@ -89,6 +89,7 @@ button { font: inherit; }
 .btn--rose-outline { background: var(--blanc); color: var(--rose); border-color: var(--rose); }
 .btn--jaune { background: var(--jaune); color: var(--blanc); border-color: var(--jaune); }
 .btn--jaune-outline { background: var(--blanc); color: var(--jaune); border-color: var(--jaune); font-weight: 500; }
+.btn--title { background: var(--title); color: var(--blanc); border-color: var(--title); }
 .btn--blanc { background: var(--blanc); color: var(--rose); border-color: var(--blanc); }
 .btn--lg { font-size: var(--fs-nav); line-height: normal; min-height: 59px; }
 @media (max-width: 560px) { .btn { white-space: normal; text-align: center; } }

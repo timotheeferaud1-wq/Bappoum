@@ -1,0 +1,692 @@
+<frame id="287:2093" name="Bappoum" x="7179" y="1396" width="1920" height="9638">
+  <frame id="287:2094" name="Calque_1-2" x="1026.54296875" y="191.130859375" width="764.4251708984375" height="682.8690185546875">
+    <vector id="287:2095" name="Vector" x="1026.54296875" y="721.3966064453125" width="626.1936638621846" height="537.696556709292" />
+    <vector id="287:2096" name="Vector" x="1094.984375" y="191.130859375" width="178.8068389892578" height="157.71812438964844" />
+    <vector id="287:2097" name="Vector" x="1317.80859375" y="191.130859375" width="157.71812438964844" height="157.71812438964844" />
+    <vector id="287:2098" name="Vector" x="1512.20703125" y="277.3310546875" width="157.71812438964844" height="157.71815490722656" />
+    <vector id="287:2099" name="Vector" x="1633.25" y="457.0556640625" width="157.71812438964844" height="157.71815490722656" />
+  </frame>
+  <text id="287:2100" name="Text" x="222" y="6528" width="599" height="130" />
+  <frame id="287:2101" name="Frame 39870" x="0" y="0" width="1920" height="9110.818359375">
+    <frame id="287:2102" name="Frame 39767" x="0" y="0" width="1920" height="928.2759399414062">
+      <instance id="307:1454" name="navbar" x="0" y="0" width="1920" height="128" />
+      <frame id="287:2116" name="Frame 39770" x="0" y="192" width="1920" height="736.2759399414062">
+        <frame id="287:2749" name="Frame 37" x="100" y="0" width="792" height="736.2759399414062" />
+        <frame id="287:2117" name="Frame 39768" x="988" y="106.27593994140625" width="832" height="523.7240600585938">
+          <frame id="287:2118" name="Frame 39766" x="0" y="0" width="832" height="374.72406005859375">
+            <frame id="287:2119" name="Frame 39870" x="0" y="0" width="832" height="222.72406005859375">
+              <frame id="287:2120" name="Container" x="5" y="0" width="822" height="44.72405242919922">
+                <frame id="287:2121" name="Margin" x="12" y="2.3620262145996094" width="690" height="40">
+                  <text id="287:2122" name="250 familles accompagnées · Replay à vie · Contenus créés par des professionnels" x="0" y="8" width="690" height="32" />
+                </frame>
+                <frame id="287:2123" name="Frame 39856" x="714" y="0" width="96" height="44.72405242919922">
+                  <frame id="287:2124" name="Frame 39739" x="0" y="0" width="96" height="44.72405242919922">
+                    <ellipse id="287:2125" name="Ellipse 16" x="0" y="10.36202621459961" width="24" height="24" />
+                    <ellipse id="287:2126" name="Ellipse 17" x="18" y="10.36202621459961" width="24" height="24" />
+                    <ellipse id="287:2127" name="Ellipse 21" x="36" y="10.36202621459961" width="24" height="24" />
+                    <ellipse id="287:2128" name="Ellipse 22" x="54" y="10.36202621459961" width="24" height="24" />
+                    <ellipse id="287:2129" name="Ellipse 20" x="72" y="10.36202621459961" width="24" height="24" />
+                  </frame>
+                </frame>
+              </frame>
+              <text id="314:2085" name="Bappoum - la plateforme d&#39;accompagnement parental mensuel créée par Bavardons Parentalité" x="0" y="60.72406005859375" width="832" height="162" />
+            </frame>
+            <text id="287:2131" name="Un espace numérique pour comprendre ton enfant, mieux vivre ton quotidien de parent et avancer avec plus de douceur. Chaque mois, une thématique est abordée en profondeur par des professionnels. Lives, podcasts, ressources pratiques et communauté de parents, tout ceci accessibles 24h/24, chaque contenu est disponible en replay." x="0" y="270.72406005859375" width="832" height="104" />
+          </frame>
+          <frame id="287:2737" name="Frame 39770" x="0" y="422.72406005859375" width="283.5" height="101">
+            <instance id="287:2738" name="Découvrir Bappoum" x="0" y="0" width="283.5" height="50" />
+            <text id="287:2739" name="Profiter des 15 premiers jours offerts - sans carte bancaire" x="0" y="62" width="283.5" height="39" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="287:2221" name="Frame 39864" x="0" y="1072.27587890625" width="1920" height="656">
+      <frame id="290:2804" name="Frame 40070" x="100" y="96" width="827" height="464">
+        <frame id="287:2222" name="Frame 39772" x="0" y="0" width="827" height="162">
+          <text id="287:2223" name="Commencer Bappoum gratuitement : lives, podcasts et ressources parentalité en accès libre" x="0" y="0" width="827" height="162" />
+        </frame>
+        <frame id="290:2833" name="Frame 40075" x="0" y="210" width="827" height="156">
+          <text id="290:2802" name="Pas encore prêt(e) à t&#39;abonner ? Commence par explorer Bappoum gratuitement pendant 15 jours. En créant un compte gratuit, tu accèdes immédiatement à une sélection de contenus : 2 lives, 2 podcasts et 2 ressources par thématique, disponibles à tout moment. Sans carte bancaire, sans engagement. À l&#39;issue des 15 jours, choisis la formule qui te correspond à partir de 16€/mois." x="0" y="0" width="827" height="156" />
+        </frame>
+        <instance id="297:2905" name="Découvrir Bappoum" x="0" y="414" width="283.5" height="50" />
+      </frame>
+      <frame id="287:2229" name="Frame 40032" x="1051" y="96" width="769" height="464">
+        <frame id="290:2816" name="Frame 40074" x="0" y="0" width="769" height="464">
+          <frame id="290:2811" name="Frame 40071" x="0" y="0" width="769" height="138.6666717529297">
+            <vector id="294:2834" name="Vector" x="24" y="55.49551010131836" width="27.675649642944336" height="27.675649642944336" />
+            <text id="290:2789" name="Lives parentalité avec des psychologues et éducateurs — en direct et replay à vie" x="75.67565155029297" y="35.333335876464844" width="669.3243408203125" height="68" />
+          </frame>
+          <frame id="290:2812" name="Frame 40072" x="0" y="162.6666717529297" width="769" height="138.66665649414062">
+            <vector id="294:2836" name="Vector" x="24" y="55.49550247192383" width="27.675649642944336" height="27.675649642944336" />
+            <text id="290:2813" name="Podcasts parentalité créés par des professionnels de l&#39;enfance  - à écouter partout" x="75.67565155029297" y="35.33332824707031" width="669.3243408203125" height="68" />
+          </frame>
+          <frame id="290:2814" name="Frame 40073" x="0" y="325.33331298828125" width="769" height="138.66665649414062">
+            <vector id="294:2838" name="Vector" x="24" y="55.49550247192383" width="27.675649642944336" height="27.675649642944336" />
+            <text id="290:2815" name="Ressources pratiques parentalité - ebooks, cahiers d&#39;activités et outils du quotidien" x="75.67565155029297" y="35.33332824707031" width="669.3243408203125" height="68" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="290:2805" name="Group 8" x="792" y="527.09375" width="105.40732689239667" height="105.40732689239667" />
+    </frame>
+    <frame id="294:2840" name="Frame 39850" x="0" y="1872.27587890625" width="1920" height="880.818115234375">
+      <frame id="297:3284" name="Frame 40077" x="100" y="0" width="1720" height="880.818115234375">
+        <frame id="307:453" name="Frame 40076" x="0" y="0" width="1044" height="108">
+          <frame id="307:454" name="Frame 39855" x="0" y="0" width="1044" height="108">
+            <text id="307:455" name="Comment fonctionne Bappoum - la plateforme d&#39;accompagnement parental mensuel en ligne" x="0" y="0" width="1044" height="108" />
+          </frame>
+        </frame>
+        <frame id="307:502" name="Frame 40080" x="0" y="156" width="1720" height="724.818115234375">
+          <frame id="307:1276" name="Frame 39820" x="0" y="0" width="744" height="724.818115234375">
+            <frame id="307:1277" name="Frame 39818" x="48" y="48" width="648" height="628.818115234375">
+              <frame id="307:1278" name="Frame 39822" x="0" y="26.4090576171875" width="648" height="174">
+                <frame id="307:1279" name="Frame 39842" x="0" y="0" width="411" height="48">
+                  <frame id="307:1280" name="Frame 39844" x="0" y="0" width="48" height="48">
+                    <text id="307:1281" name="1" x="18" y="3" width="12" height="42" />
+                  </frame>
+                  <text id="307:1282" name="Une thématique par mois" x="60" y="3" width="351" height="42" />
+                </frame>
+                <frame id="307:1283" name="Frame 39815" x="0" y="72" width="648" height="102">
+                  <frame id="307:1284" name="Frame 39829" x="0" y="0" width="648" height="102">
+                    <text id="307:1285" name="Sommeil · Émotions · Écrans · Alimentation · Parentalité positive · Autonomie · Couple · Séparation · Adolescence…" x="15.225296974182129" y="0" width="617.5493774414062" height="102" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="307:1286" name="Frame 40081" x="0" y="248.4090576171875" width="648" height="112">
+                <frame id="307:1287" name="Frame 40084" x="0" y="0" width="525" height="48">
+                  <frame id="307:1288" name="Frame 39844" x="0" y="0" width="48" height="48">
+                    <text id="307:1289" name="2" x="15.5" y="3" width="17" height="42" />
+                  </frame>
+                  <text id="307:1290" name="Des professionnels interviennent" x="60" y="3" width="465" height="42" />
+                </frame>
+                <text id="307:1291" name="Psychologues, éducateurs, thérapeutes, professionnels de santé — en live avec temps d&#39;échange et questions en direct." x="0" y="60" width="648" height="52" />
+              </frame>
+              <frame id="307:1292" name="Frame 40080" x="0" y="408.4090576171875" width="648" height="194">
+                <frame id="307:1293" name="Frame 40083" x="0" y="0" width="509" height="48">
+                  <frame id="307:1294" name="Frame 39844" x="0" y="0" width="48" height="48">
+                    <text id="307:1295" name="3" x="15.5" y="3" width="17" height="42" />
+                  </frame>
+                  <text id="307:1296" name="Tu accèdes à tout, quand tu veux" x="58" y="3" width="451" height="42" />
+                </frame>
+                <frame id="307:1297" name="Frame 39817" x="0" y="72" width="648" height="122">
+                  <frame id="307:1298" name="Frame 39823" x="0" y="0" width="648" height="26">
+                    <frame id="307:1299" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                    <text id="307:1305" name="Lives en direct + replay à vie" x="26.020755767822266" y="0" width="621.979248046875" height="26" />
+                  </frame>
+                  <frame id="307:1306" name="Frame 39824" x="0" y="32" width="648" height="26">
+                    <frame id="307:1307" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                    <text id="307:1313" name="Podcasts" x="26.020755767822266" y="0" width="621.979248046875" height="26" />
+                  </frame>
+                  <frame id="307:1314" name="Frame 39825" x="0" y="64" width="648" height="26">
+                    <frame id="307:1315" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                    <text id="307:1321" name="Ressources pratiques" x="26.020755767822266" y="0" width="621.979248046875" height="26" />
+                  </frame>
+                  <frame id="307:1322" name="Frame 39826" x="0" y="96" width="648" height="26">
+                    <frame id="307:1323" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                    <text id="307:1329" name="Cafés des parents en visio" x="26.020755767822266" y="0" width="621.979248046875" height="26" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="297:3404" name="Frame 40079" x="808" y="0" width="912" height="724.818115234375">
+            <frame id="297:3299" name="Frame 40078" x="0" y="0" width="912" height="724.818115234375">
+              <frame id="297:3277" name="Frame 39823" x="0" y="0" width="125.16666412353516" height="163.20452880859375">
+                <frame id="297:3278" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="297:3279" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="297:3280" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="297:3281" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="297:3282" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="297:3283" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:987" name="Frame 39886" x="149.16665649414062" y="0" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:988" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:989" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:990" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:991" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:992" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:993" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1003" name="Frame 39888" x="298.33331298828125" y="0" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1004" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1005" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1006" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1007" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1008" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1009" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:995" name="Frame 39887" x="447.4999694824219" y="0" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:996" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:997" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:998" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:999" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1000" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1001" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1011" name="Frame 39889" x="596.6666259765625" y="0" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1012" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1013" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1014" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1015" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1016" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1017" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1051" name="Frame 39894" x="745.833251953125" y="6.839996337890625" width="98.88166809082031" height="149.5245361328125">
+                <frame id="307:1052" name="Mask group" x="16.349628448486328" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1053" name="Vector" x="16.349237556452863" y="-0.0002638244768604636" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1054" name="Vector" x="-0.030918121337890625" y="-0.0002638244768604636" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1055" name="Frame 39787" x="0" y="78.94452667236328" width="98.88166809082031" height="70.58000183105469">
+                  <text id="307:1056" name="Marc André" x="0" y="0" width="79" height="23" />
+                  <text id="307:1057" name="Formateur en pédagogie" x="0" y="24.579999923706055" width="98.88166809082031" height="46" />
+                </frame>
+              </frame>
+              <frame id="307:1019" name="Frame 39890" x="0" y="187.20452880859375" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1020" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1021" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1022" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1023" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1024" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1025" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1043" name="Frame 39893" x="149.16665649414062" y="187.20452880859375" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1044" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1045" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1046" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1047" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1048" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1049" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1027" name="Frame 39891" x="298.33331298828125" y="187.20452880859375" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1028" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1029" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1030" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1031" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1032" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1033" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1035" name="Frame 39892" x="447.4999694824219" y="187.20452880859375" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1036" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1037" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1038" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1039" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1040" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1041" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1059" name="Frame 39895" x="596.6666259765625" y="187.20452880859375" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1060" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1061" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1062" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1063" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1064" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1065" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1067" name="Frame 39896" x="745.833251953125" y="187.20452880859375" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1068" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1069" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1070" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1071" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1072" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1073" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1075" name="Frame 39897" x="0" y="374.4090576171875" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1076" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1077" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1078" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1079" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1080" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1081" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1082" name="Frame 39898" x="149.16665649414062" y="374.4090576171875" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1083" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1084" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1085" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1086" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1087" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1088" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1089" name="Frame 39899" x="298.33331298828125" y="374.4090576171875" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1090" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1091" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1092" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1093" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1094" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1095" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1096" name="Frame 39900" x="447.4999694824219" y="374.4090576171875" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1097" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1098" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1099" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1100" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1101" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1102" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1103" name="Frame 39901" x="596.6666259765625" y="374.4090576171875" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1104" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1105" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1106" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1107" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1108" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1109" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1110" name="Frame 39902" x="745.833251953125" y="374.4090576171875" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1111" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1112" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1113" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1114" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1115" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1116" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1224" name="Frame 39903" x="0" y="561.6135864257812" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1225" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1226" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1227" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1228" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1229" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1230" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1232" name="Frame 39904" x="149.16665649414062" y="561.6135864257812" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1233" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1234" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1235" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1236" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1237" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1238" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1239" name="Frame 39905" x="298.33331298828125" y="561.6135864257812" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1240" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1241" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1242" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1243" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1244" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1245" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1246" name="Frame 39906" x="447.4999694824219" y="561.6135864257812" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1247" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1248" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1249" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1250" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1251" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1252" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1253" name="Frame 39907" x="596.6666259765625" y="561.6135864257812" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1254" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1255" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1256" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1257" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1258" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1259" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+              <frame id="307:1260" name="Frame 39908" x="745.833251953125" y="561.6135864257812" width="125.16666412353516" height="163.20452880859375">
+                <frame id="307:1261" name="Mask group" x="29.49212646484375" y="0" width="66.18241119384766" height="74.20452880859375">
+                  <vector id="307:1262" name="Vector" x="29.491648254392203" y="-0.0006544494535773993" width="66.18241119384766" height="74.20452880859375" />
+                  <vector id="307:1263" name="Vector" x="13.111492156982422" y="-0.0006544494535773993" width="99.942138671875" height="74.87303924560547" />
+                </frame>
+                <frame id="307:1264" name="Frame 39787" x="0" y="80.20452880859375" width="125.16666412353516" height="83">
+                  <text id="307:1265" name="Marc André" x="0" y="0" width="100" height="29" />
+                  <text id="307:1266" name="Formateur en pédagogie" x="0" y="31" width="125.16666412353516" height="52" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="287:2240" name="Frame 39865" x="0" y="2897.093994140625" width="1920" height="864">
+      <frame id="287:2241" name="Frame 39772" x="100" y="0" width="1720" height="864">
+        <frame id="287:2242" name="Frame 40044" x="0" y="0" width="950" height="238">
+          <text id="287:2253" name="Lives, podcasts, ressources et communauté - les contenus parentalité créés par des professionnels sur Bappoum" x="0" y="0" width="950" height="162" />
+          <text id="309:1568" name="Sur Bappoum, chaque thématique est abordée à travers 5 formats complémentaires, créés et animés par des psychologues, éducateurs, thérapeutes et professionnels de santé spécialisés dans l&#39;enfance et la parentalité." x="0" y="186" width="934" height="52" />
+        </frame>
+        <frame id="309:1484" name="Frame 39821" x="0" y="286" width="1720" height="578">
+          <frame id="309:1498" name="Frame 39823" x="0" y="0" width="323.20001220703125" height="578">
+            <frame id="309:1499" name="Frame 39838" x="0" y="0" width="323.20001220703125" height="528">
+              <vector id="309:1500" name="Vector" x="0" y="0" width="323.20001220703125" height="250" />
+              <frame id="309:1570" name="Frame 40085" x="0" y="274" width="323.20001220703125" height="254">
+                <frame id="309:1501" name="Frame 39822" x="16" y="0" width="291.20001220703125" height="254">
+                  <frame id="309:1502" name="Frame 39847" x="0" y="0" width="291.20001220703125" height="34">
+                    <frame id="314:1972" name="Frame 40095" x="0" y="0" width="291.20001220703125" height="34">
+                      <frame id="314:1980" name="Frame 40096" x="0" y="0" width="16.020755767822266" height="27.999114990234375">
+                        <frame id="314:1973" name="Calque_1-2" x="0" y="6" width="16.020755767822266" height="15.999114990234375" />
+                      </frame>
+                      <text id="309:1505" name="Podcasts parentalité" x="26.020755767822266" y="0" width="265.17926025390625" height="34" />
+                    </frame>
+                  </frame>
+                  <frame id="309:1506" name="Frame 39815" x="0" y="46" width="291.20001220703125" height="208">
+                    <text id="309:1507" name="Des épisodes audio créés par des experts et enrichis de témoignages de parents. À écouter dans la voiture, pendant la sieste, le ménage ou la poussette — la formation parentale qui s&#39;adapte à ta vie, pas l&#39;inverse." x="0" y="0" width="291.20001220703125" height="208" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="309:1571" name="Frame 39827" x="349.20001220703125" y="0" width="323.20001220703125" height="578">
+            <frame id="309:1572" name="Frame 39838" x="0" y="0" width="323.20001220703125" height="554">
+              <vector id="309:1573" name="Vector" x="0" y="0" width="323.20001220703125" height="250" />
+              <frame id="309:1574" name="Frame 40085" x="0" y="274" width="323.20001220703125" height="280">
+                <frame id="309:1575" name="Frame 39822" x="16" y="0" width="291.20001220703125" height="280">
+                  <frame id="309:1576" name="Frame 39847" x="0" y="0" width="291.20001220703125" height="34">
+                    <frame id="314:1982" name="Frame 40096" x="0" y="0" width="16.020755767822266" height="27.999114990234375">
+                      <frame id="314:1983" name="Calque_1-2" x="0" y="6" width="16.020755767822266" height="15.999114990234375" />
+                    </frame>
+                    <text id="309:1577" name="Lives parentalité" x="26.020755767822266" y="0" width="265.17926025390625" height="34" />
+                  </frame>
+                  <frame id="309:1578" name="Frame 39815" x="0" y="46" width="291.20001220703125" height="234">
+                    <text id="309:1579" name="Des interventions en direct avec des professionnels de l&#39;enfance et de la parentalité. Chaque live inclut un temps d&#39;échange et de questions - tu interagis, tu poses tes questions, tu n&#39;es plus seul·e face à tes doutes. Tout est disponible en replay à vie pour regarder à ton rythme" x="0" y="0" width="291.20001220703125" height="234" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="309:1580" name="Frame 39828" x="698.4000244140625" y="0" width="323.20001220703125" height="578">
+            <frame id="309:1581" name="Frame 39838" x="0" y="0" width="323.20001220703125" height="502">
+              <vector id="309:1582" name="Vector" x="0" y="0" width="323.20001220703125" height="250" />
+              <frame id="309:1583" name="Frame 40085" x="0" y="274" width="323.20001220703125" height="228">
+                <frame id="309:1584" name="Frame 39822" x="16" y="0" width="291.20001220703125" height="228">
+                  <frame id="309:1585" name="Frame 39847" x="0" y="0" width="291.20001220703125" height="34">
+                    <frame id="314:1990" name="Frame 40096" x="0" y="0" width="16.020755767822266" height="27.999114990234375">
+                      <frame id="314:1991" name="Calque_1-2" x="0" y="6" width="16.020755767822266" height="15.999114990234375" />
+                    </frame>
+                    <text id="309:1586" name="Ressources pratiques" x="26.020755767822266" y="0" width="265.17926025390625" height="34" />
+                  </frame>
+                  <frame id="309:1587" name="Frame 39815" x="0" y="46" width="291.20001220703125" height="182">
+                    <text id="309:1588" name="Des documents numériques directement applicables : ebooks thématiques, cahiers d&#39;activités parents-enfants, articles scientifiques, to-do lists, recettes, supports à utiliser au quotidien avec tes enfants." x="0" y="0" width="291.20001220703125" height="182" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="309:1589" name="Frame 39829" x="1047.60009765625" y="0" width="323.20001220703125" height="578">
+            <frame id="309:1590" name="Frame 39838" x="0" y="0" width="323.20001220703125" height="528">
+              <vector id="309:1591" name="Vector" x="0" y="0" width="323.20001220703125" height="250" />
+              <frame id="309:1592" name="Frame 40085" x="0" y="274" width="323.20001220703125" height="254">
+                <frame id="309:1593" name="Frame 39822" x="16" y="0" width="291.20001220703125" height="254">
+                  <frame id="309:1594" name="Frame 39847" x="0" y="0" width="291.20001220703125" height="34">
+                    <frame id="314:1997" name="Frame 40096" x="0" y="0" width="16.020755767822266" height="27.999114990234375">
+                      <frame id="314:1998" name="Calque_1-2" x="0" y="6" width="16.020755767822266" height="15.999114990234375" />
+                    </frame>
+                    <text id="309:1595" name=" Cafés des parents" x="26.020755767822266" y="0" width="265.17926025390625" height="34" />
+                  </frame>
+                  <frame id="309:1596" name="Frame 39815" x="0" y="46" width="291.20001220703125" height="208">
+                    <text id="309:1597" name="Des espaces d&#39;échange informels en visio, sans ordre du jour, sans jugement. Pour partager ses doutes, ses réussites, ses questionnements avec d&#39;autres parents qui vivent les mêmes défis. Parce que la parentalité ne devrait pas se vivre seul·e." x="0" y="0" width="291.20001220703125" height="208" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="309:1598" name="Frame 39830" x="1396.800048828125" y="0" width="323.20001220703125" height="578">
+            <frame id="309:1599" name="Frame 39838" x="0" y="0" width="323.20001220703125" height="554">
+              <vector id="309:1600" name="Vector" x="0" y="0" width="323.20001220703125" height="250" />
+              <frame id="309:1601" name="Frame 40085" x="0" y="274" width="323.20001220703125" height="280">
+                <frame id="309:1602" name="Frame 39822" x="16" y="0" width="291.20001220703125" height="280">
+                  <frame id="309:1603" name="Frame 39847" x="0" y="0" width="291.20001220703125" height="34">
+                    <frame id="314:2006" name="Frame 40096" x="0" y="0" width="16.020755767822266" height="27.999114990234375">
+                      <frame id="314:2007" name="Calque_1-2" x="0" y="6" width="16.020755767822266" height="15.999114990234375" />
+                    </frame>
+                    <text id="309:1604" name="Réductions partenaires" x="26.020755767822266" y="0" width="265.17926025390625" height="34" />
+                  </frame>
+                  <frame id="309:1605" name="Frame 39815" x="0" y="46" width="291.20001220703125" height="234">
+                    <text id="309:1606" name="Chaque mois, un partenaire soigneusement sélectionné parmi des marques, structures et professionnels alignés avec les valeurs de Bappoum — Quitoque, Fizzup, Namatata… Des réductions exclusives réservées aux membres de la plateforme sur des services utiles au quotidien." x="0" y="0" width="291.20001220703125" height="234" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="287:2273" name="Frame 39863" x="0" y="3905.093994140625" width="1920" height="657">
+      <frame id="287:2274" name="Frame 39865" x="100" y="0" width="1720" height="657" />
+    </frame>
+    <frame id="287:2373" name="Frame 39770" x="0" y="4706.09375" width="1920" height="1152.72412109375">
+      <frame id="287:2374" name="Frame 39768" x="100" y="0" width="1720" height="1152.72412109375">
+        <frame id="287:2375" name="Frame 39766" x="434" y="0" width="852" height="216.72406005859375">
+          <frame id="287:2376" name="Frame 39870" x="0" y="0" width="840" height="114.72405242919922">
+            <frame id="287:2377" name="Container" x="105.5" y="0" width="629" height="44.72405242919922">
+              <frame id="287:2378" name="Margin" x="12" y="2.3620262145996094" width="497" height="40">
+                <text id="287:2379" name="+ 250 familles accompagnées  · Séance découverte offerte" x="0" y="8" width="497" height="32" />
+              </frame>
+              <frame id="287:2380" name="Frame 39856" x="521" y="0" width="96" height="44.72405242919922">
+                <frame id="287:2381" name="Frame 39739" x="0" y="0" width="96" height="44.72405242919922">
+                  <ellipse id="287:2382" name="Ellipse 16" x="0" y="10.36202621459961" width="24" height="24" />
+                  <ellipse id="287:2383" name="Ellipse 17" x="18" y="10.36202621459961" width="24" height="24" />
+                  <ellipse id="287:2384" name="Ellipse 21" x="36" y="10.36202621459961" width="24" height="24" />
+                  <ellipse id="287:2385" name="Ellipse 22" x="54" y="10.36202621459961" width="24" height="24" />
+                  <ellipse id="287:2386" name="Ellipse 20" x="72" y="10.36202621459961" width="24" height="24" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="287:2387" name="Les formules d&#39;abonnement Bappoum" x="0" y="60.72405242919922" width="840" height="54" />
+          </frame>
+          <text id="287:2388" name="Je vous propose des accompagnements parentaux adaptés à chaque situation et à chaque famille. Que vous traversiez un défi parental précis, que vous cherchiez à renforcer les liens familiaux ou que vous organisiez un événement nous avons un accompagnement pensé pour ta réalité de parent." x="0" y="138.72406005859375" width="852" height="78" />
+        </frame>
+        <frame id="287:2389" name="Frame 40062" x="0" y="264.72406005859375" width="1720" height="888">
+          <frame id="287:2390" name="Frame 40063" x="483.5" y="0" width="753" height="74">
+            <text id="287:2391" name="Tous" x="24" y="24" width="41" height="26" />
+            <text id="287:2392" name="Coaching individuel" x="113" y="24" width="167" height="26" />
+            <text id="287:2393" name="Ateliers" x="328" y="24" width="67" height="26" />
+            <text id="287:2394" name="Evènements" x="443" y="24" width="107" height="26" />
+            <instance id="287:2395" name="Réserver ma séance" x="598" y="12" width="131" height="50" />
+          </frame>
+          <frame id="287:2396" name="Frame 40066" x="0" y="98" width="1720" height="790">
+            <frame id="287:2397" name="Frame 40062" x="677" y="48" width="366" height="74">
+              <instance id="287:2398" name="Réserver ma séance" x="12" y="12" width="121" height="50" />
+              <text id="287:2399" name="Annuel - 2 mois offerts" x="157" y="24" width="197" height="26" />
+            </frame>
+            <frame id="287:2400" name="Frame 39821" x="48" y="146" width="1624" height="484">
+              <frame id="287:2401" name="Frame 39827" x="0" y="0" width="525.3333129882812" height="484">
+                <frame id="287:2402" name="Frame 39839" x="24" y="24" width="477.33331298828125" height="362">
+                  <frame id="287:2403" name="Frame 40059" x="0" y="0" width="346" height="362">
+                    <text id="287:2404" name="Classique" x="0" y="0" width="346" height="42" />
+                    <frame id="287:2405" name="Frame 40060" x="0" y="63" width="346" height="62">
+                      <text id="287:2406" name="16€ /mois" x="0" y="0" width="346" height="42" />
+                      <text id="287:2407" name="sans engagement" x="0" y="42" width="116" height="20" />
+                    </frame>
+                    <frame id="287:2408" name="Frame 40058" x="0" y="146" width="346" height="216">
+                      <frame id="287:2409" name="Frame 39823" x="0" y="0" width="346" height="26">
+                        <frame id="287:2410" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                        <text id="287:2416" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="319.979248046875" height="26" />
+                      </frame>
+                      <frame id="287:2417" name="Frame 39866" x="0" y="38" width="346" height="26">
+                        <frame id="287:2418" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                        <text id="287:2424" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="319.979248046875" height="26" />
+                      </frame>
+                      <frame id="287:2425" name="Frame 39867" x="0" y="76" width="346" height="26">
+                        <frame id="287:2426" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                        <text id="287:2432" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="319.979248046875" height="26" />
+                      </frame>
+                      <frame id="287:2433" name="Frame 39868" x="0" y="114" width="346" height="26">
+                        <frame id="287:2434" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                        <text id="287:2440" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="319.979248046875" height="26" />
+                      </frame>
+                      <frame id="287:2441" name="Frame 39869" x="0" y="152" width="346" height="26">
+                        <frame id="287:2442" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                        <text id="287:2448" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="319.979248046875" height="26" />
+                      </frame>
+                      <frame id="287:2449" name="Frame 39870" x="0" y="190" width="346" height="26">
+                        <frame id="287:2450" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                        <text id="287:2456" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="319.979248046875" height="26" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <instance id="287:2457" name="Réserver ma séance" x="24" y="410" width="477.33331298828125" height="50" />
+              </frame>
+              <frame id="287:2458" name="Frame 39828" x="549.3333129882812" y="0" width="525.3333740234375" height="484">
+                <frame id="287:2459" name="Frame 40059" x="0" y="0" width="525.3333740234375" height="334">
+                  <frame id="287:2460" name="Frame 40063" x="0" y="0" width="525.3333740234375" height="173">
+                    <text id="287:2461" name="Premium" x="24" y="24" width="477.3333740234375" height="42" />
+                    <frame id="287:2462" name="Frame 40060" x="24" y="87" width="477.3333740234375" height="62">
+                      <text id="287:2463" name="16€ /mois" x="0" y="0" width="477.3333740234375" height="42" />
+                      <text id="287:2464" name="sans engagement" x="0" y="42" width="116" height="20" />
+                    </frame>
+                  </frame>
+                  <frame id="287:2465" name="Frame 40058" x="0" y="194" width="525.3333740234375" height="140">
+                    <frame id="287:2466" name="Frame 39823" x="24" y="0" width="477.3333740234375" height="26">
+                      <frame id="287:2467" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                      <text id="287:2473" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="451.3126220703125" height="26" />
+                    </frame>
+                    <frame id="287:2474" name="Frame 39866" x="24" y="38" width="477.3333740234375" height="26">
+                      <frame id="287:2475" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                      <text id="287:2481" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="451.3126220703125" height="26" />
+                    </frame>
+                    <frame id="287:2482" name="Frame 39867" x="24" y="76" width="477.3333740234375" height="26">
+                      <frame id="287:2483" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                      <text id="287:2489" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="451.3126220703125" height="26" />
+                    </frame>
+                    <frame id="287:2490" name="Frame 39868" x="24" y="114" width="477.3333740234375" height="26">
+                      <frame id="287:2491" name="Calque_1-2" x="0" y="5.0004425048828125" width="16.020755767822266" height="15.999114990234375" />
+                      <text id="287:2497" name="Accès complet à la plateforme" x="26.020755767822266" y="0" width="451.3126220703125" height="26" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="287:2498" name="Frame 40064" x="0" y="410" width="525.3333740234375" height="50">
+                  <instance id="287:2499" name="Réserver ma séance" x="24" y="0" width="477.3333740234375" height="50" />
+                </frame>
+              </frame>
+              <frame id="287:2500" name="Frame 39826" x="1098.666748046875" y="0" width="525.3333740234375" height="484" />
+            </frame>
+            <frame id="287:2557" name="Frame 40069" x="712.5" y="654" width="295" height="88">
+              <text id="287:2558" name="Tu ne sais pas par où commencer ?" x="0" y="0" width="295" height="26" />
+              <instance id="287:2559" name="Découvrir Bappoum" x="48" y="38" width="199" height="50" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="287:2560" name="Frame 39892" x="0" y="6002.81787109375" width="1920" height="1086">
+      <text id="287:2561" name="Questions fréquentes sur l&#39;accompagnement parental et la plateforme Bappoum" x="458.5" y="0" width="1003" height="108" />
+      <frame id="287:2562" name="Frame 39891" x="504" y="156" width="912" height="930">
+        <frame id="287:2563" name="Frame 39654" x="0" y="0" width="912" height="930">
+          <instance id="287:2564" name="FAQ" x="0" y="0" width="912" height="82" />
+          <instance id="287:2565" name="FAQ" x="0" y="106" width="912" height="82" />
+          <instance id="287:2566" name="FAQ" x="0" y="212" width="912" height="82" />
+          <instance id="287:2567" name="FAQ" x="0" y="318" width="912" height="82" />
+          <instance id="287:2568" name="FAQ" x="0" y="424" width="912" height="82" />
+          <instance id="287:2569" name="FAQ" x="0" y="530" width="912" height="82" />
+          <instance id="287:2570" name="FAQ" x="0" y="636" width="912" height="82" />
+          <instance id="287:2571" name="FAQ" x="0" y="742" width="912" height="82" />
+          <instance id="287:2572" name="FAQ" x="0" y="848" width="912" height="82" />
+        </frame>
+      </frame>
+      <frame id="287:2573" name="Calque_1-2" x="1743" y="-5.171875" width="106.47886224836111" height="106.59381198423944" />
+      <frame id="287:2579" name="Calque_1-2" x="175.171875" y="1040" width="106.59381198423944" height="106.47886224836475" />
+    </frame>
+    <frame id="287:2585" name="Frame 40000" x="0" y="7232.81787109375" width="1920" height="1006">
+      <frame id="287:2586" name="Frame 39999" x="100" y="0" width="1720" height="146">
+        <text id="287:2587" name="Échanger avec Maëva - coaching parental individuel, questions sur Bappoum et demandes d&#39;accompagnement " x="211" y="0" width="1298" height="108" />
+        <text id="287:2588" name="Que tu cherches un abonnement, un coaching, une animation pour ton événement ou une intervention en entreprise — dis-nous ce dont tu as besoin, on revient vers toi sous 48h." x="0" y="120" width="1720" height="26" />
+      </frame>
+      <frame id="287:2589" name="Frame 39997" x="100" y="194" width="1720" height="812">
+        <frame id="287:2590" name="Frame 39998" x="0" y="0" width="1720" height="788">
+          <frame id="287:2591" name="Frame 40001" x="0" y="0" width="812" height="788">
+            <text id="287:2592" name="Poser une question sur l’accompagnement parental" x="50" y="0" width="712" height="42" />
+            <frame id="287:2593" name="Frame 39992" x="0" y="66" width="812" height="722">
+              <frame id="287:2594" name="Group 2" x="709.08984375" y="359.787109375" width="109.771484375" height="0.2900390625" />
+              <frame id="287:2597" name="Frame 39990" x="48" y="48" width="716" height="626">
+                <frame id="287:2598" name="Frame 39993" x="0" y="0" width="716" height="520">
+                  <frame id="287:2599" name="Frame 39995" x="0" y="0" width="716" height="112">
+                    <frame id="287:2600" name="Frame 39989" x="0" y="0" width="346" height="112">
+                      <text id="287:2601" name="Nom*" x="0" y="0" width="346" height="29" />
+                      <frame id="287:2602" name="Frame 39986" x="0" y="35" width="346" height="77">
+                        <text id="287:2603" name="trucmuche" x="24" y="24" width="298" height="29" />
+                      </frame>
+                    </frame>
+                    <frame id="287:2604" name="Frame 39991" x="370" y="0" width="346" height="112">
+                      <text id="287:2605" name="Prénom*" x="0" y="0" width="346" height="29" />
+                      <frame id="287:2606" name="Frame 39986" x="0" y="35" width="346" height="77">
+                        <text id="287:2607" name="trucmuche" x="24" y="24" width="298" height="29" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="287:2608" name="Frame 39987" x="0" y="136" width="716" height="112">
+                    <text id="287:2609" name="Votre email*" x="0" y="0" width="716" height="29" />
+                    <frame id="287:2610" name="Frame 39987" x="0" y="35" width="716" height="77">
+                      <text id="287:2611" name="trucmuche@gmail.com" x="24" y="24" width="237" height="29" />
+                    </frame>
+                  </frame>
+                  <frame id="287:2612" name="Frame 39990" x="0" y="272" width="716" height="112">
+                    <text id="287:2613" name="Téléphone" x="0" y="0" width="716" height="29" />
+                    <frame id="287:2614" name="Frame 39987" x="0" y="35" width="716" height="77">
+                      <text id="287:2615" name="trucmuche@gmail.com" x="24" y="24" width="237" height="29" />
+                    </frame>
+                  </frame>
+                  <frame id="287:2616" name="Frame 39988" x="0" y="408" width="716" height="112">
+                    <text id="287:2617" name="Besoins*" x="0" y="0" width="716" height="29" />
+                    <frame id="287:2618" name="Frame 39986" x="0" y="35" width="716" height="77">
+                      <text id="287:2619" name="trucmuche@gmail.com" x="24" y="24" width="237" height="29" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="287:2620" name="Frame 39866" x="0" y="568" width="716" height="58">
+                  <text id="287:2621" name="On vous rappelle" x="272.5" y="16" width="171" height="26" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="287:2622" name="Frame 39991" x="908" y="0" width="812" height="788">
+            <frame id="287:2623" name="Frame 39866" x="0" y="0" width="812" height="84">
+              <frame id="287:2624" name="Frame 39864" x="0" y="0" width="812" height="84">
+                <text id="287:2625" name="Réserver votre séance découverte de coaching parental,  15 minutes offertes" x="0" y="0" width="812" height="84" />
+              </frame>
+            </frame>
+            <rounded-rectangle id="287:2626" name="image 167" x="0" y="120" width="812" height="668" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="287:2627" name="Frame 39872" x="0" y="8382.818359375" width="1920" height="728" />
+    <frame id="314:2079" name="Group 6" x="1759.1328125" y="3976.833740234375" width="314.13178517062624" height="308.315223461861">
+      <ellipse id="314:2080" name="Ellipse 6" x="1691.9453127358029" y="3981.1599127652007" width="212.51393474893848" height="239.0046946206421" />
+      <frame id="314:2081" name="Calque_1-2" x="1759.1328125000007" y="3976.8337402343723" width="314.13178517062624" height="308.315223461861">
+        <vector id="314:2082" name="Vector" x="1759.1328125000014" y="3976.8337402343695" width="314.13178517062624" height="308.315223461861" />
+        <vector id="314:2083" name="Vector" x="1596.0742135869602" y="4086.0993659810265" width="63.702532977229566" height="36.62832046740368" />
+        <vector id="314:2084" name="Vector" x="1593.0546900021184" y="4043.3884336109395" width="41.21399659144663" height="46.20097616320709" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="287:2757" name="Calque_1-2" x="1847.528564453125" y="1004.7742919921875" width="127.14209696233593" height="127.06415370428658" />
+  <instance id="344:648" name="navbar" x="0" y="0" width="1920" height="128" />
+</frame>

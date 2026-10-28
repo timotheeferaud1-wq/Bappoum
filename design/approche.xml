@@ -1,0 +1,1232 @@
+<frame id="234:144" name="Approche" x="0" y="0" width="1920" height="7948">
+<!-- get_design_context a renvoyé du code React+Tailwind (pas de XML sparse) ; capture non obtenue (limite d appels Figma atteinte). -->
+<source format="react-tailwind"><![CDATA[
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/bc808414-1332-4c8e-bd6d-5f572a262edd";
+const imgProperty1Default = `${assetPathPrefix}/8fae1.svg`;
+const imgFichier2016Png = `${assetPathPrefix}/df444.png`;
+const imgEllipse16 = `${assetPathPrefix}/c0153.png`;
+const imgEllipse17 = `${assetPathPrefix}/88790.png`;
+const imgEllipse21 = `${assetPathPrefix}/1f642.png`;
+const imgEllipse22 = `${assetPathPrefix}/6dc7a.png`;
+const imgEllipse20 = `${assetPathPrefix}/8fe2f.png`;
+const imgVector1 = `${assetPathPrefix}/1b1f2.png`;
+const imgFrame37 = `${assetPathPrefix}/8528a.png`;
+const imgVector2 = `${assetPathPrefix}/90fe4.png`;
+const imgFrame39773 = `${assetPathPrefix}/a4eba.png`;
+const imgFrame39774 = `${assetPathPrefix}/561aa.png`;
+const imgImage167 = `${assetPathPrefix}/ff38b.png`;
+const imgCalque12 = `${assetPathPrefix}/03879.svg`;
+const imgCalque13 = `${assetPathPrefix}/14f10.svg`;
+const imgCalque14 = `${assetPathPrefix}/73ca1.svg`;
+const imgVector = `${assetPathPrefix}/56bbe.svg`;
+const imgCalque15 = `${assetPathPrefix}/31634.svg`;
+const imgCalque16 = `${assetPathPrefix}/48ec4.svg`;
+const imgEllipse6 = `${assetPathPrefix}/20c16.svg`;
+const imgCalque17 = `${assetPathPrefix}/aeff5.svg`;
+const imgCalque18 = `${assetPathPrefix}/bead8.svg`;
+const imgGroup6 = `${assetPathPrefix}/5071a.svg`;
+const imgCalque19 = `${assetPathPrefix}/ee987.svg`;
+const imgCalque20 = `${assetPathPrefix}/3ca7a.svg`;
+const imgCalque21 = `${assetPathPrefix}/615fd.svg`;
+const imgFlowbiteArrowUpOutline = `${assetPathPrefix}/df978.svg`;
+const imgGroup8 = `${assetPathPrefix}/785f9.svg`;
+const imgWeuiArrowOutlined = `${assetPathPrefix}/c3940.svg`;
+const imgCalque22 = `${assetPathPrefix}/580d7.svg`;
+const imgCalque23 = `${assetPathPrefix}/dec7b.svg`;
+const imgGroup2 = `${assetPathPrefix}/f8934.svg`;
+const imgCalque24 = `${assetPathPrefix}/a443d.svg`;
+const imgCalque25 = `${assetPathPrefix}/98850.svg`;
+const imgCalque26 = `${assetPathPrefix}/0465b.svg`;
+const imgVector3 = `${assetPathPrefix}/94162.svg`;
+const imgVector4 = `${assetPathPrefix}/bc463.svg`;
+const imgVector5 = `${assetPathPrefix}/351e5.svg`;
+const imgGroup = `${assetPathPrefix}/0024a.svg`;
+const imgGroup1 = `${assetPathPrefix}/ff589.svg`;
+const imgVector6 = `${assetPathPrefix}/cf1b0.svg`;
+const imgGroup3 = `${assetPathPrefix}/a3a0d.svg`;
+const imgGroup4 = `${assetPathPrefix}/769d2.svg`;
+const imgVector7 = `${assetPathPrefix}/e6c33.svg`;
+const imgGroup5 = `${assetPathPrefix}/7b408.svg`;
+const imgGroup7 = `${assetPathPrefix}/16b46.svg`;
+const imgVector8 = `${assetPathPrefix}/98c27.svg`;
+const imgGroup9 = `${assetPathPrefix}/3c5fe.svg`;
+const imgVector9 = `${assetPathPrefix}/0f963.svg`;
+const imgGroup10 = `${assetPathPrefix}/f8bcb.svg`;
+const imgGroup11 = `${assetPathPrefix}/ae9f8.svg`;
+const imgVector10 = `${assetPathPrefix}/91773.svg`;
+const imgGroup12 = `${assetPathPrefix}/1d262.svg`;
+const imgGroup13 = `${assetPathPrefix}/a7f34.svg`;
+const imgVector11 = `${assetPathPrefix}/96f8d.svg`;
+const imgGroup14 = `${assetPathPrefix}/ef6a4.svg`;
+const imgGroup15 = `${assetPathPrefix}/eb290.svg`;
+const imgVector12 = `${assetPathPrefix}/47514.svg`;
+const imgGroup16 = `${assetPathPrefix}/1c889.svg`;
+const imgVector13 = `${assetPathPrefix}/344a4.svg`;
+const imgGroup17 = `${assetPathPrefix}/8d8d3.svg`;
+const imgVector14 = `${assetPathPrefix}/15b31.svg`;
+const imgGroup18 = `${assetPathPrefix}/b5ef2.svg`;
+const imgVector15 = `${assetPathPrefix}/3e90a.svg`;
+const imgGroup19 = `${assetPathPrefix}/cf899.svg`;
+const imgGroup20 = `${assetPathPrefix}/5b23c.svg`;
+const imgVector16 = `${assetPathPrefix}/74aa0.svg`;
+const imgGroup21 = `${assetPathPrefix}/893ad.svg`;
+const imgVector17 = `${assetPathPrefix}/cd802.svg`;
+const imgGroup22 = `${assetPathPrefix}/360a3.svg`;
+const imgVector18 = `${assetPathPrefix}/8a54f.svg`;
+const imgGroup23 = `${assetPathPrefix}/3f690.svg`;
+const imgGroup24 = `${assetPathPrefix}/29332.svg`;
+const imgVector19 = `${assetPathPrefix}/9e8a6.svg`;
+const imgGroup25 = `${assetPathPrefix}/4637d.svg`;
+const imgGroup26 = `${assetPathPrefix}/2aa2e.svg`;
+const imgVector20 = `${assetPathPrefix}/597bd.svg`;
+const imgGroup27 = `${assetPathPrefix}/1f358.svg`;
+const imgGroup28 = `${assetPathPrefix}/4b5d2.svg`;
+const imgVector21 = `${assetPathPrefix}/0f269.svg`;
+const imgGroup29 = `${assetPathPrefix}/c61d9.svg`;
+const imgGroup30 = `${assetPathPrefix}/4a8fc.svg`;
+const imgVector22 = `${assetPathPrefix}/3b54b.svg`;
+const imgGroup31 = `${assetPathPrefix}/aeddf.svg`;
+const imgGroup32 = `${assetPathPrefix}/15462.svg`;
+const imgVector23 = `${assetPathPrefix}/3ff1d.svg`;
+const imgGroup33 = `${assetPathPrefix}/93d7b.svg`;
+const imgGroup34 = `${assetPathPrefix}/9e558.svg`;
+const imgVector24 = `${assetPathPrefix}/39428.svg`;
+const imgGroup35 = `${assetPathPrefix}/3542c.svg`;
+const imgGroup36 = `${assetPathPrefix}/20156.svg`;
+
+type CommencerGratuitementProps = {
+  className?: string;
+  property1?: "Default";
+};
+
+function CommencerGratuitement({ className, property1 = "Default" }: CommencerGratuitementProps) {
+  return (
+    <div className={className || "bg-[var(--rose,#eb4d94)] content-stretch flex h-[59px] items-center justify-center px-[24px] py-[12px] relative rounded-[12px]"} data-node-id="179:386">
+      <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[normal] relative shrink-0 text-[22px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="179:385">
+        Commencer gratuitement
+      </p>
+    </div>
+  );
+}
+
+type ReserverMaSeanceProps = {
+  className?: string;
+  property1?: "Default";
+};
+
+function ReserverMaSeance({ className, property1 = "Default" }: ReserverMaSeanceProps) {
+  return (
+    <div className={className || "bg-[var(--blanc,#fffaf0)] border border-[var(--jaune,#f59b3d)] border-solid content-stretch flex items-center justify-center px-[24px] py-[12px] relative rounded-[12px]"} data-node-id="179:405">
+      <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[normal] relative shrink-0 text-[22px] text-[color:var(--jaune,#f59b3d)] whitespace-nowrap" data-node-id="179:404">
+        Nous contacter
+      </p>
+    </div>
+  );
+}
+
+type FlowbiteArrowUpOutlineProps = {
+  className?: string;
+  property1?: "Default";
+};
+
+function FlowbiteArrowUpOutline({ className, property1 = "Default" }: FlowbiteArrowUpOutlineProps) {
+  return (
+    <div className={className || "relative size-[36px]"} data-node-id="185:85">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgProperty1Default} />
+    </div>
+  );
+}
+
+export default function Approche() {
+  return (
+    <div className="bg-[#fffaf0] relative size-full" data-node-id="234:144" data-name="Approche">
+      <div className="absolute inset-[2.4%_6.72%_89%_53.47%]" data-node-id="234:145" data-name="Calque_1-2">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque12} />
+      </div>
+      <div className="absolute flex inset-[10.73%_93.3%_86.87%_-3.23%] items-center justify-center" data-node-id="234:151" style={{ containerType: "size" }}>
+        <div className="flex-none h-[hypot(-25.5033cqw,74.4495cqh)] rotate-[18.92deg] w-[hypot(74.4967cqw,25.5505cqh)]">
+          <div className="relative size-full" data-name="Calque_1-2">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque13} />
+          </div>
+        </div>
+      </div>
+      <div className="[word-break:break-word] absolute font-['Baloo_2:Regular'] font-normal leading-[0] left-[222px] text-[20px] text-[color:var(--txt,#17030c)] top-[6528px] w-[599px] whitespace-pre-wrap" data-node-id="234:163">
+        <p className="leading-[26px] mb-0">​</p>
+        <p className="leading-[26px] mb-0">​</p>
+        <p className="leading-[26px] mb-0">​</p>
+        <p className="leading-[26px] mb-0">​</p>
+        <p className="leading-[26px]">​</p>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[144px] items-end left-[-7px] top-0 w-[1927px]" data-node-id="234:164">
+        <div className="content-stretch flex flex-col gap-[64px] items-center relative shrink-0 w-full" data-node-id="234:165">
+          <div className="content-stretch flex items-center justify-between px-[100px] py-[32px] relative shrink-0 w-[1920px]" data-node-id="307:1406" data-name="navbar">
+            <a className="content-stretch cursor-pointer flex items-start justify-center relative shrink-0 size-[64px]" data-node-id="I307:1406;307:1332" data-name="Container:align-flex-start">
+              <div className="content-stretch flex items-start justify-center max-w-[64px] min-w-[64px] overflow-clip relative rounded-[2.56px] shrink-0 size-[64px]" data-node-id="I307:1406;307:1333" data-name="Container">
+                <div className="flex-[1_0_0] h-full min-w-px relative rounded-[2.56px]" data-node-id="I307:1406;307:1334" data-name="Fichier%2016.png">
+                  <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[2.56px]">
+                    <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFichier2016Png} />
+                  </div>
+                </div>
+              </div>
+            </a>
+            <div className="content-stretch flex gap-[32px] items-center relative shrink-0" data-node-id="I307:1406;307:1335">
+              <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[normal] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="I307:1406;307:1337">
+                Approche
+              </p>
+              <a className="[word-break:break-word] block cursor-pointer font-['Baloo_2:Regular'] font-normal leading-[0] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="I307:1406;307:1336">
+                <p className="leading-[normal]">Accompagnements</p>
+              </a>
+              <a className="content-stretch cursor-pointer flex gap-[10px] items-center justify-center relative shrink-0" data-node-id="I307:1406;307:1338" data-name="Bappoum">
+                <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[normal] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] text-left whitespace-nowrap" data-node-id="I307:1406;307:1338;98:361">
+                  Bappoum
+                </p>
+                <div className="h-[22px] relative shrink-0 w-[24.628px]" data-node-id="I307:1406;307:1338;98:368" data-name="Calque_1-2">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque14} />
+                </div>
+              </a>
+              <a className="[word-break:break-word] block cursor-pointer font-['Baloo_2:Regular'] font-normal leading-[0] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="I307:1406;307:1357">
+                <p className="leading-[normal]">Entreprises</p>
+              </a>
+              <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[normal] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="I307:1406;307:1340">
+                Ressources
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[24px] items-center relative shrink-0" data-node-id="I307:1406;307:1341">
+              <ReserverMaSeance className="bg-[var(--blanc,#fffaf0)] border border-[var(--jaune,#f59b3d)] border-solid content-stretch flex items-center justify-center px-[24px] py-[12px] relative rounded-[12px] shrink-0" />
+              <CommencerGratuitement className="bg-[var(--rose,#eb4d94)] content-stretch flex h-[59px] items-center justify-center px-[24px] py-[12px] relative rounded-[12px] shrink-0" />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[64px] items-center justify-center px-[100px] relative shrink-0 w-[1920px]" data-node-id="234:771">
+            <div className="-translate-y-1/2 absolute h-[616px] left-[1087.5px] top-[calc(50%+5.86px)] w-[711px]" data-node-id="234:772" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="content-stretch flex gap-[124px] h-[736.276px] items-center relative shrink-0 w-full" data-node-id="234:773">
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[48px] items-start min-w-px relative" data-node-id="234:774">
+                <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="234:775">
+                  <div className="bg-[#fdf0e2] content-stretch flex gap-[12px] items-center justify-center px-[12px] relative rounded-[12px] shrink-0" data-node-id="241:855" data-name="Container">
+                    <div className="content-stretch flex items-center justify-center pt-[8px] relative shrink-0" data-node-id="241:856" data-name="Margin">
+                      <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[normal] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] text-center whitespace-nowrap" data-node-id="241:857">
+                        + 250 familles accompagnées
+                      </p>
+                    </div>
+                    <div className="content-stretch flex flex-col items-center justify-center relative shrink-0" data-node-id="241:858">
+                      <div className="content-stretch flex h-[44.724px] items-center relative shrink-0 w-full" data-node-id="241:859">
+                        <div className="mr-[-6px] relative shrink-0 size-[24px]" data-node-id="241:860">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" height="24" src={imgEllipse16} width="24" />
+                        </div>
+                        <div className="mr-[-6px] relative shrink-0 size-[24px]" data-node-id="241:861">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" height="24" src={imgEllipse17} width="24" />
+                        </div>
+                        <div className="mr-[-6px] relative shrink-0 size-[24px]" data-node-id="241:862">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" height="24" src={imgEllipse21} width="24" />
+                        </div>
+                        <div className="mr-[-6px] relative shrink-0 size-[24px]" data-node-id="241:863">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" height="24" src={imgEllipse22} width="24" />
+                        </div>
+                        <div className="relative shrink-0 size-[24px]" data-node-id="241:864">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" height="24" src={imgEllipse20} width="24" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[0] min-w-full relative shrink-0 text-[51px] text-[color:var(--title,#710f3a)] w-[min-content]" data-node-id="314:2088">
+                    <span className="leading-[54px]">{`Maëva Abadie, spécialisée dans le `}</span>
+                    <span className="leading-[54px] text-[#f2820d]">{`développement de l'enfant`}</span>
+                    <span className="leading-[54px]">, fondatrice de Bavardons Parentalité.</span>
+                  </p>
+                </div>
+                <div className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[0] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-[821px] whitespace-pre-wrap" data-node-id="234:787">
+                  <p className="leading-[26px] mb-0">{`Je m'appelle Maëva. Je suis diplômée d’une licence en psychologie depuis juin 2021. `}</p>
+                  <p className="leading-[26px] mb-0">​</p>
+                  <p className="leading-[26px] mb-0">{`Je me suis spécialisée dans le développement de l'enfant et de l'adolescent, j'ai passé plusieurs années au contact des familles : dans les centres de loisirs, les maisons d'accueil, les foyers, les ateliers parents-enfants. `}</p>
+                  <p className="leading-[26px] mb-0">​</p>
+                  <p className="leading-[26px] mb-0">{`Et au fil du temps, j'ai réalisé quelque chose : les parents manquent cruellement de soutien.`}</p>
+                  <p className="leading-[26px]">{`C'est pour ça que j'ai créé Bavardons Parentalité.`}</p>
+                </div>
+                <div className="content-stretch flex gap-[24px] items-start relative shrink-0 w-full" data-node-id="234:788">
+                  <div className="bg-[var(--jaune,#f59b3d)] border border-[var(--jaune,#f59b3d)] border-solid content-stretch flex items-center justify-center px-[24px] py-[12px] relative rounded-[12px] shrink-0" data-node-id="234:789" data-name="Réserver ma séance">
+                    <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[26px] relative shrink-0 text-[20px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="I234:789;179:372">
+                      Réserver ma séance découverte offerte
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[12px] items-start justify-center relative shrink-0" data-node-id="234:790">
+                    <div className="bg-[var(--rose,#eb4d94)] content-stretch flex gap-[12px] items-center justify-center px-[24px] py-[12px] relative rounded-[12px] shrink-0 w-[283.5px]" data-node-id="234:791" data-name="Découvrir Bappoum">
+                      <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[26px] relative shrink-0 text-[20px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="I234:791;179:286">
+                        Découvrir Bappoum
+                      </p>
+                      <div className="h-[22.002px] relative shrink-0 w-[24.629px]" data-node-id="I234:791;179:287" data-name="Calque_1-2">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque15} />
+                      </div>
+                    </div>
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] min-w-full relative shrink-0 text-[15px] text-[color:var(--rose,#eb4d94)] text-center w-[min-content] whitespace-pre-wrap" data-node-id="234:792">{`Sans engagement – Accès immédiat  – Contenus créés par des professionnels`}</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[540px] relative shrink-0 w-[766px]" data-node-id="234:793" data-name="Vector">
+                <div className="absolute inset-[0_1.58%_0_1.16%]">
+                  <img alt="" className="block max-w-none size-full" height="540" src={imgVector1} width="745.051" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[64px] items-center px-[100px] relative shrink-0 w-full" data-node-id="234:974">
+          <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="234:1020">
+            <div className="flex flex-[1_0_0] h-full items-center justify-center min-w-px relative">
+              <div className="flex-none rotate-2 size-full">
+                <div className="content-stretch flex flex-col items-start relative size-full">
+                  <div className="flex-[1_0_0] min-h-px overflow-clip relative rounded-[12px] w-full" data-node-id="234:1021">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[12px] size-full" src={imgFrame37} />
+                    <div className="absolute contents inset-[113.19%_-2.53%_-21.43%_95.57%]" data-node-id="234:1022" style={{ containerType: "size" }}>
+                      <div className="absolute flex inset-[113.19%_-2.53%_-21.43%_95.57%] items-center justify-center" data-node-id="234:1024" style={{ containerType: "size" }}>
+                        <div className="-scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                          <div className="relative size-full" data-name="Calque_1-2">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque16} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#fef2e7] content-stretch drop-shadow-[-4px_4px_17px_rgba(235,77,148,0.05)] flex flex-[1_0_0] flex-col items-start min-w-px p-[48px] relative rounded-[24px]" data-node-id="234:975">
+            <div className="content-stretch flex flex-col gap-[48px] items-start relative shrink-0 w-full" data-node-id="234:976">
+              <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[54px] relative shrink-0 text-[51px] text-[color:var(--title,#710f3a)] w-full" data-node-id="234:1035">
+                Pourquoi Bavardons Parentalité existe : accompagner les parents pour mieux aider les enfants.
+              </p>
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:981">
+                <div className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[0] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full whitespace-pre-wrap" data-node-id="234:1037">
+                  <p className="leading-[26px] mb-0">{`À l’origine, je voulais être la main tendue que je n’avais pas eue enfant, en travaillant dans la protection de l’enfance. `}</p>
+                  <p className="leading-[26px] mb-0">​</p>
+                  <p className="mb-0">
+                    <span className="leading-[26px]">{`Mais au fil de mes recherches et de mes stages, j’ai compris quelque chose d’essentiel : si je voulais réellement aider les enfants à grandir dans un environnement bienveillant et rempli d’amour, `}</span>
+                    <span className="leading-[26px] text-[#17030c]">c’était d’abord les parents que je devais accompagner</span>
+                    <span className="leading-[26px]">{`. `}</span>
+                  </p>
+                  <p className="leading-[26px] mb-0">​</p>
+                  <p className="leading-[26px] mb-0">On ne naît pas parent, on le devient. Et comme tout, ça s’apprend. Sauf qu’en réalité, on est souvent influencés par notre éducation, par la société, par des schémas qu’on reproduit sans même s’en rendre compte. Certains parents pensent bien faire sans mesurer l’impact de leurs actions. D’autres veulent bien faire mais ne savent pas comment.</p>
+                  <p className="leading-[26px] mb-0">​</p>
+                  <p className="leading-[26px]">Et d’autres encore ressentent simplement le besoin de mieux comprendre le développement de leur enfant. Avec Bavardons Parentalité, j’ai voulu créer un espace où chaque parent peut trouver du soutien, des clés concrètes et surtout une écoute sans jugement. Un endroit où l’on peut poser ses questions, partager ses doutes et avancer, pas à pas, vers une parentalité plus sereine et plus alignée</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[64px] items-start relative shrink-0 w-full" data-node-id="411:4084">
+          <div className="content-stretch flex gap-[124px] items-center px-[100px] relative shrink-0 w-full" data-node-id="234:840">
+            <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[48px] items-start min-w-px relative" data-node-id="234:842">
+              <p className="font-['Baloo_2:Medium'] font-medium leading-[54px] relative shrink-0 text-[51px] text-[color:var(--title,#710f3a)] w-full" data-node-id="234:843">{`Une formation spécialisée dans le développement de l'enfant et de l'adolescent`}</p>
+              <div className="font-['Baloo_2:Regular'] font-normal leading-[0] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full whitespace-pre-wrap" data-node-id="234:844">
+                <p className="leading-[26px] mb-0">{`Mon approche repose avant tout sur des bases solides en psychologie. Grâce à ma formation centrée sur le développement de l’enfant et de l’adolescent, j’ai acquis une compréhension approfondie des besoins émotionnels, cognitifs et relationnels à chaque étape de la vie. `}</p>
+                <p className="leading-[26px] mb-0">​</p>
+                <p className="leading-[26px] mb-0">{`Ces connaissances me permettent de prendre du recul face aux situations du quotidien, d’analyser les comportements des enfants avec justesse et d’apporter des réponses adaptées, loin des injonctions ou des conseils culpabilisants. `}</p>
+                <p className="leading-[26px] mb-0">​</p>
+                <p className="leading-[26px]">Chez Bavardons Parentalité, l’objectif n’est pas de donner des recettes toutes faites, mais de transmettre des repères fiables, issus de recherches et d’observations concrètes. Comprendre pourquoi un enfant agit d’une certaine manière, c’est déjà faire un premier pas vers une réponse plus juste et plus apaisée. Cette base scientifique est essentielle : elle permet d’accompagner les parents avec sérieux, cohérence et bienveillance, en s’appuyant sur des connaissances validées plutôt que sur des opinions ou des tendances.</p>
+              </div>
+            </div>
+            <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="234:841">
+              <div className="flex-[1_0_0] h-full min-w-px relative" data-name="Vector">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" height="574" src={imgVector2} width="801.5" />
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex h-[250px] items-center px-[100px] relative shrink-0 w-full" data-node-id="411:4007">
+            <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start min-w-px relative" data-node-id="411:4008">
+              <div className="content-stretch flex flex-[1_0_0] gap-[48px] items-start min-h-px relative w-full" data-node-id="411:4043">
+                <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start justify-center min-w-px relative" data-node-id="411:4012">
+                  <div className="flex-[1_0_0] min-h-px overflow-clip relative rounded-[24px] w-full" data-node-id="411:4013">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[24px] size-full" src={imgFrame39773} />
+                    <div className="absolute bottom-[-528.7px] contents right-[-216.18px]" data-node-id="411:4014">
+                      <div className="absolute flex h-[162.451px] items-center justify-center left-[627.37px] top-[616.25px] w-[132.48px]" data-node-id="411:4015">
+                        <div className="-scale-y-100 flex-none rotate-180">
+                          <div className="h-[162.451px] relative w-[132.48px]">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse6} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="absolute flex inset-[113.19%_-2.53%_-21.43%_95.57%] items-center justify-center" data-node-id="411:4016" style={{ containerType: "size" }}>
+                        <div className="-scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                          <div className="relative size-full" data-name="Calque_1-2">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque17} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start justify-center min-w-px relative" data-node-id="411:4028">
+                  <div className="flex-[1_0_0] min-h-px overflow-clip relative rounded-[24px] w-full" data-node-id="411:4029">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[24px] size-full" src={imgFrame39773} />
+                    <div className="absolute bottom-[-528.7px] contents right-[-216.18px]" data-node-id="411:4030">
+                      <div className="absolute flex h-[162.451px] items-center justify-center left-[627.37px] top-[616.25px] w-[132.48px]" data-node-id="411:4031">
+                        <div className="-scale-y-100 flex-none rotate-180">
+                          <div className="h-[162.451px] relative w-[132.48px]">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse6} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="absolute flex inset-[113.19%_-2.53%_-21.43%_95.57%] items-center justify-center" data-node-id="411:4032" style={{ containerType: "size" }}>
+                        <div className="-scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                          <div className="relative size-full" data-name="Calque_1-2">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque18} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start justify-center min-w-px relative" data-node-id="411:4044">
+                  <div className="flex-[1_0_0] min-h-px overflow-clip relative rounded-[24px] w-full" data-node-id="411:4045">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[24px] size-full" src={imgFrame39773} />
+                    <div className="absolute bottom-[-528.7px] contents right-[-216.18px]" data-node-id="411:4046">
+                      <div className="absolute flex h-[162.451px] items-center justify-center left-[627.37px] top-[616.25px] w-[132.48px]" data-node-id="411:4047">
+                        <div className="-scale-y-100 flex-none rotate-180">
+                          <div className="h-[162.451px] relative w-[132.48px]">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse6} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="absolute flex inset-[113.19%_-2.53%_-21.43%_95.57%] items-center justify-center" data-node-id="411:4048" style={{ containerType: "size" }}>
+                        <div className="-scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                          <div className="relative size-full" data-name="Calque_1-2">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque18} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[116px] items-center px-[100px] relative shrink-0 w-full" data-node-id="234:845">
+          <div className="flex flex-row items-center self-stretch" data-node-id="234:1237">
+            <div className="content-center flex flex-wrap gap-[24px] h-full items-center relative shrink-0 w-[816px]">
+              <div className="bg-[#fef2e7] content-stretch flex flex-col gap-[12px] h-[212px] items-start p-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1341">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="314:2112">
+                  <div className="bg-[var(--rose,#eb4d94)] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="314:2113">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="314:2114">
+                      2020
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1343">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--txt,#17030c)] w-full" data-node-id="234:1344">
+                    Animatrice en centre de loisirs
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#fef2e7] content-stretch flex flex-col h-[212px] items-start pt-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1382">
+                <div className="content-stretch flex flex-col gap-[6px] items-start px-[24px] relative shrink-0 w-full" data-node-id="234:1417">
+                  <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="314:2108">
+                    <div className="bg-[var(--rose,#eb4d94)] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="314:2109">
+                      <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="314:2110">
+                        2020
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1384">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--txt,#17030c)] w-full" data-node-id="234:1385">
+                      Auxiliaire de puériculture en crèche
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[#fef2e7] content-stretch flex flex-col gap-[12px] h-[212px] items-start p-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1386">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="314:2104">
+                  <div className="bg-[var(--rose,#eb4d94)] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="314:2105">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="314:2106">
+                      2020
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1388">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--txt,#17030c)] w-full" data-node-id="234:1389">
+                    Fille au pair
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#fef2e7] content-stretch flex flex-col gap-[12px] h-[212px] items-start p-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1390">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="314:2092">
+                  <div className="bg-[var(--rose,#eb4d94)] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="314:2093">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="314:2094">
+                      2020
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1392">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--txt,#17030c)] w-full" data-node-id="234:1393">
+                    Garde périscolaire
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#fef2e7] content-stretch flex flex-col gap-[12px] h-[212px] items-start p-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1394">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="314:2096">
+                  <div className="bg-[var(--rose,#eb4d94)] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="314:2097">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="314:2098">
+                      2020
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1396">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--txt,#17030c)] w-full" data-node-id="234:1397">{`Éducatrice en maison d'accueil à caractère social`}</p>
+                </div>
+              </div>
+              <div className="bg-[#fef2e7] content-stretch flex flex-col gap-[12px] h-[212px] items-start p-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1398">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="314:2100">
+                  <div className="bg-[var(--rose,#eb4d94)] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="314:2101">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="314:2102">
+                      2020
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1400">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--txt,#17030c)] w-full" data-node-id="234:1401">{`Organisatrice d'ateliers parents-enfants`}</p>
+                </div>
+              </div>
+              <div className="bg-[#fef2e7] content-stretch flex flex-col gap-[12px] h-[212px] items-start p-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1402">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="237:1693">
+                  <div className="bg-[var(--rose,#eb4d94)] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="234:1497">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="234:1498">
+                      2020
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1404">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--txt,#17030c)] w-full" data-node-id="234:1405">
+                    Organisatrice de café des parents
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[var(--jaune,#f59b3d)] content-stretch flex flex-col gap-[12px] h-[212px] items-start p-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1406">
+                <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="234:1566">
+                  <div className="bg-[var(--blanc,#fffaf0)] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="234:1567">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--jaune-saturé,#f2820d)] whitespace-nowrap" data-node-id="234:1568">
+                      2020
+                    </p>
+                  </div>
+                  <div className="flex items-center justify-center relative shrink-0" data-node-id="234:1582">
+                    <div className="-scale-y-100 flex-none rotate-180">
+                      <div className="h-[48px] relative w-[49.579px]">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup6} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1408">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[#fffaf0] text-[26px] w-full" data-node-id="234:1409">
+                    Création de Bavardons Parentalité
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[var(--rose,#eb4d94)] content-stretch flex flex-col gap-[12px] h-[212px] items-start p-[24px] relative rounded-[24px] shrink-0 w-[256px]" data-node-id="234:1410">
+                <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="234:1565">
+                  <div className="bg-[#fffaf0] content-stretch flex items-center justify-center px-[12px] py-[6px] relative rounded-[12px] shrink-0" data-node-id="234:1494">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] relative shrink-0 text-[15px] text-[color:var(--rose,#eb4d94)] whitespace-nowrap" data-node-id="234:1495">
+                      2020
+                    </p>
+                  </div>
+                  <div className="h-[48px] relative shrink-0 w-[48.061px]" data-node-id="234:1558" data-name="Calque_1-2">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque19} />
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="234:1412">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[#fffaf0] text-[26px] w-full" data-node-id="234:1413">
+                    Lancement de Bappoum
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[48px] items-start min-w-px relative" data-node-id="234:846">
+            <p className="font-['Baloo_2:Medium'] font-medium leading-[54px] relative shrink-0 text-[51px] text-[color:var(--title,#710f3a)] w-full" data-node-id="234:847">{`8 ans d'expérience terrain auprès des familles : crèche, MECS, ateliers parents-enfants et coaching parental`}</p>
+            <div className="font-['Baloo_2:Regular'] font-normal leading-[0] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full whitespace-pre-wrap" data-node-id="234:848">
+              <p className="leading-[26px] mb-0">Au-delà de la théorie, ce sont surtout mes expériences sur le terrain qui ont façonné mon approche. J’ai travaillé dans de nombreux environnements liés à l’enfance et à la parentalité : crèche, périscolaire, centre de loisirs, MECS, baby-sitting, aide aux devoirs, ou encore accompagnement de familles au quotidien.</p>
+              <p className="leading-[26px] mb-0">​</p>
+              <p className="leading-[26px] mb-0">Ces expériences m’ont permis de comprendre que chaque enfant est unique, chaque parent fait de son mieux et aucune situation ne se ressemble vraiment. Sur le terrain, on est confronté au concret : les crises, la fatigue, les doutes, les imprévus… tout ce qu’aucun livre ne peut totalement anticiper.</p>
+              <p className="leading-[26px] mb-0">​</p>
+              <p className="leading-[26px] mb-0">C’est cette immersion dans la vraie vie des familles qui me permet aujourd’hui de proposer un accompagnement pragmatique, adapté et réaliste. Je propose des outils applicables au quotidien, pensés pour s’intégrer dans des vies déjà bien remplies.</p>
+              <p className="leading-[26px]">Parce qu’accompagner les parents, ce n’est pas leur dire quoi c’est comprendre leurs enjeux, leurs contraintes, leurs émotions… et avancer avec eux, pas à pas.</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[124px] items-center px-[100px] relative shrink-0 w-full" data-node-id="234:208">
+          <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[48px] items-start min-w-px relative" data-node-id="234:235">
+            <p className="font-['Baloo_2:Medium'] font-medium leading-[54px] min-w-full relative shrink-0 text-[51px] text-[color:var(--title,#710f3a)] w-[min-content]" data-node-id="234:236">
+              La parentalité bienveillante selon Bavardons Parentalité : méthode, valeurs et outils concrets
+            </p>
+            <div className="font-['Baloo_2:Regular'] font-normal leading-[0] min-w-full relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-[min-content] whitespace-pre-wrap" data-node-id="234:1590">
+              <p className="mb-0">
+                <span className="leading-[26px]">{`Chez Bavardons Parentalité, je pars d’un principe simple : `}</span>
+                <span className="leading-[26px] text-[#17030c]">il n’existe pas de parent parfait</span>
+                <span className="leading-[26px]">. L’objectif n’est pas de viser la perfection, mais d’aller vers une parentalité plus bienveillante et plus alignée avec ses valeurs.</span>
+              </p>
+              <p className="leading-[26px] mb-0">​</p>
+              <p className="leading-[26px]">Derrière chaque comportement d’un enfant, il y a un besoin. En apprenant à le décoder, on remplace progressivement les réactions automatiques. Ainsi, on transforme nos réactions par des réponses plus justes, basées sur la bienveillance, l’amour et le respect de chacun.</p>
+            </div>
+            <p className="font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--txt,#17030c)] w-[638px]" data-node-id="239:372">{`Je propose des accompagnements concrets, avec des outils simples et applicables dès la première semaine. `}</p>
+          </div>
+          <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="239:327">
+            <div className="content-stretch flex flex-[1_0_0] gap-[24px] h-full items-center min-w-px relative">
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[18px] h-full items-start min-w-px relative" data-node-id="239:328">
+                <div className="flex-[1_0_0] min-h-px overflow-clip relative rounded-[24px] w-full" data-node-id="239:329">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[24px] size-full" src={imgFrame39774} />
+                  <div className="absolute bottom-[-454.7px] contents right-[-371.1px]" data-node-id="239:330">
+                    <div className="absolute flex h-[162.451px] items-center justify-center left-[627.37px] top-[616.25px] w-[132.48px]" data-node-id="239:331">
+                      <div className="-scale-y-100 flex-none rotate-180">
+                        <div className="h-[162.451px] relative w-[132.48px]">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse6} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex inset-[113.18%_-2.53%_-21.44%_95.57%] items-center justify-center" data-node-id="239:332" style={{ containerType: "size" }}>
+                      <div className="-scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                        <div className="relative size-full" data-name="Calque_1-2">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque20} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[#fef2e7] content-stretch flex flex-col items-start p-[10px] relative rounded-[24px] shrink-0 w-full" data-node-id="239:335">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="239:336">
+                    <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-full" data-node-id="239:337">
+                      <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="239:338">
+                        <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[32px] relative shrink-0 text-[26px] text-[color:var(--jaune-saturé,#f2820d)] text-right whitespace-nowrap" data-node-id="239:339">
+                          Accompagnements
+                        </p>
+                        <FlowbiteArrowUpOutline className="relative shrink-0 size-[36px]" />
+                      </div>
+                      <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[26px] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full" data-node-id="239:341">{`L’accompagnement individuel se fait sur un maximum de 8 rendez-vous en one-to-one, pour aller à l’essentiel tout en créant de vrais déclics. `}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[18px] h-full items-start justify-center min-w-px relative" data-node-id="239:343">
+                <div className="flex-[1_0_0] min-h-px overflow-clip relative rounded-[24px] w-full" data-node-id="239:344">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[24px] size-full" src={imgFrame39774} />
+                  <div className="absolute bottom-[-518.71px] contents right-[-371.1px]" data-node-id="239:345">
+                    <div className="absolute flex h-[162.451px] items-center justify-center left-[627.37px] top-[616.26px] w-[132.48px]" data-node-id="239:346">
+                      <div className="-scale-y-100 flex-none rotate-180">
+                        <div className="h-[162.451px] relative w-[132.48px]">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse6} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="absolute flex inset-[113.18%_-2.53%_-21.44%_95.57%] items-center justify-center" data-node-id="239:347" style={{ containerType: "size" }}>
+                      <div className="-scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                        <div className="relative size-full" data-name="Calque_1-2">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque21} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[#fbdae9] content-stretch flex flex-col gap-[6px] items-center p-[16px] relative rounded-[24px] shrink-0 w-full" data-node-id="239:350">
+                  <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="239:351">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[32px] relative shrink-0 text-[26px] text-[color:var(--rose-saturé,#e51a75)] text-right whitespace-nowrap" data-node-id="239:352">
+                      Bappoum la plateforme
+                    </p>
+                    <div className="relative shrink-0 size-[36px]" data-node-id="239:353" data-name="flowbite:arrow-up-outline">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFlowbiteArrowUpOutline} />
+                    </div>
+                  </div>
+                  <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[26px] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full" data-node-id="239:355">
+                    Pour celles et ceux qui souhaitent aller plus loin, Bappoum permet un accompagnement plus approfondi, avec l’intervention d’experts sur des thématiques variées (émotions, écrans, santé, développement de l’enfant…).
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute flex items-center justify-center left-[886.67px] size-[105.407px] top-[3903.21px]" data-node-id="241:472">
+          <div className="-rotate-45 flex-none">
+            <div className="h-[64px] relative w-[85.068px]">
+              <div className="absolute inset-[-2.06%_-2.59%_-4.36%_-0.73%]">
+                <img alt="" className="block max-w-none size-full" src={imgGroup8} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[48px] items-center justify-center px-[100px] relative shrink-0 w-[1920px]" data-node-id="237:1611">
+          <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[0] relative shrink-0 text-[51px] text-[color:var(--title,#710f3a)] text-center w-[1003px]" data-node-id="237:1612">
+            <span className="leading-[54px] text-[#eb4d94]">Questions fréquentes</span>
+            <span className="leading-[54px]">{` sur l'accompagnement parental et la plateforme Bappoum`}</span>
+          </p>
+          <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-[912px]" data-node-id="237:1613">
+            <div className="content-stretch cursor-pointer flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-node-id="237:1614">
+              <button className="bg-[#fce8f1] content-stretch flex items-center justify-between p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="237:1616" data-name="FAQ">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="I237:1616;2920:439">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--rose,#eb4d94)] text-left whitespace-nowrap" data-node-id="I237:1616;2920:440">
+                    Les ateliers parents-enfants sont-ils adaptés à tous les âges ?
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-[48px]" data-node-id="I237:1616;2920:441">
+                  <div className="flex-none rotate-90">
+                    <div className="h-[48px] relative w-[24px]" data-name="weui:arrow-outlined">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWeuiArrowOutlined} />
+                    </div>
+                  </div>
+                </div>
+              </button>
+              <button className="bg-[#fce8f1] content-stretch flex items-center justify-between p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="237:1617" data-name="FAQ">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="I237:1617;2920:439">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--rose,#eb4d94)] text-left whitespace-nowrap" data-node-id="I237:1617;2920:440">
+                    Comment se déroule une séance découverte offerte ?
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-[48px]" data-node-id="I237:1617;2920:441">
+                  <div className="flex-none rotate-90">
+                    <div className="h-[48px] relative w-[24px]" data-name="weui:arrow-outlined">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWeuiArrowOutlined} />
+                    </div>
+                  </div>
+                </div>
+              </button>
+              <button className="bg-[#fce8f1] content-stretch flex items-center justify-between p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="237:1618" data-name="FAQ">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="I237:1618;2920:439">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--rose,#eb4d94)] text-left whitespace-nowrap" data-node-id="I237:1618;2920:440">{`Quels types d'événements familiaux anime Bavardons Parentalité ?`}</p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-[48px]" data-node-id="I237:1618;2920:441">
+                  <div className="flex-none rotate-90">
+                    <div className="h-[48px] relative w-[24px]" data-name="weui:arrow-outlined">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWeuiArrowOutlined} />
+                    </div>
+                  </div>
+                </div>
+              </button>
+              <button className="bg-[#fce8f1] content-stretch flex items-center justify-between p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="237:1619" data-name="FAQ">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="I237:1619;2920:439">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--rose,#eb4d94)] text-left whitespace-nowrap" data-node-id="I237:1619;2920:440">
+                    Comment Bappoum peut-il aider dans la gestion des écrans ?
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-[48px]" data-node-id="I237:1619;2920:441">
+                  <div className="flex-none rotate-90">
+                    <div className="h-[48px] relative w-[24px]" data-name="weui:arrow-outlined">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWeuiArrowOutlined} />
+                    </div>
+                  </div>
+                </div>
+              </button>
+              <button className="bg-[#fce8f1] content-stretch flex items-center justify-between p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="237:1620" data-name="FAQ">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="I237:1620;2920:439">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--rose,#eb4d94)] text-left whitespace-nowrap" data-node-id="I237:1620;2920:440">
+                    Comment puis-je accéder aux podcasts de Bappoum ?
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-[48px]" data-node-id="I237:1620;2920:441">
+                  <div className="flex-none rotate-90">
+                    <div className="h-[48px] relative w-[24px]" data-name="weui:arrow-outlined">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWeuiArrowOutlined} />
+                    </div>
+                  </div>
+                </div>
+              </button>
+              <button className="bg-[#fce8f1] content-stretch flex items-center justify-between p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="237:1621" data-name="FAQ">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="I237:1621;2920:439">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--rose,#eb4d94)] text-left whitespace-nowrap" data-node-id="I237:1621;2920:440">
+                    Quels sont les avantages du coaching parental en ligne ?
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-[48px]" data-node-id="I237:1621;2920:441">
+                  <div className="flex-none rotate-90">
+                    <div className="h-[48px] relative w-[24px]" data-name="weui:arrow-outlined">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWeuiArrowOutlined} />
+                    </div>
+                  </div>
+                </div>
+              </button>
+              <button className="bg-[#fce8f1] content-stretch flex items-center justify-between p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="237:1622" data-name="FAQ">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="I237:1622;2920:439">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--rose,#eb4d94)] text-left whitespace-nowrap" data-node-id="I237:1622;2920:440">
+                    Le coaching parental est-il remboursé par les assurances ?
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-[48px]" data-node-id="I237:1622;2920:441">
+                  <div className="flex-none rotate-90">
+                    <div className="h-[48px] relative w-[24px]" data-name="weui:arrow-outlined">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWeuiArrowOutlined} />
+                    </div>
+                  </div>
+                </div>
+              </button>
+              <button className="bg-[#fce8f1] content-stretch flex items-center justify-between p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="237:1623" data-name="FAQ">
+                <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="I237:1623;2920:439">
+                  <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[33.8px] relative shrink-0 text-[26px] text-[color:var(--rose,#eb4d94)] text-left whitespace-nowrap" data-node-id="I237:1623;2920:440">
+                    Comment gérer les crises de colère de mon enfant ?
+                  </p>
+                </div>
+                <div className="flex h-[24px] items-center justify-center relative shrink-0 w-[48px]" data-node-id="I237:1623;2920:441">
+                  <div className="flex-none rotate-90">
+                    <div className="h-[48px] relative w-[24px]" data-name="weui:arrow-outlined">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWeuiArrowOutlined} />
+                    </div>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+          <div className="absolute flex inset-[-1.22%_3.67%_90.35%_90.78%] items-center justify-center" data-node-id="237:1624" style={{ containerType: "size" }}>
+            <div className="-scale-x-100 flex-none h-[hypot(93.5796cqw,-6.40552cqh)] rotate-[-93.92deg] w-[hypot(6.42038cqw,93.5945cqh)]">
+              <div className="relative size-full" data-name="Calque_1-2">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque22} />
+              </div>
+            </div>
+          </div>
+          <div className="absolute flex inset-[106.12%_90.52%_-16.99%_3.93%] items-center justify-center" data-node-id="237:1630" style={{ containerType: "size" }}>
+            <div className="-scale-x-100 flex-none h-[hypot(6.40552cqw,93.5796cqh)] rotate-[-3.92deg] w-[hypot(-93.5945cqw,6.42038cqh)]">
+              <div className="relative size-full" data-name="Calque_1-2">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque23} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[48px] items-start justify-center px-[100px] relative shrink-0 w-[1920px]" data-node-id="239:382">
+          <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-center relative shrink-0 w-full" data-node-id="239:383">
+            <p className="font-['Baloo_2:Medium'] font-medium leading-[54px] relative shrink-0 text-[51px] text-[color:var(--title,#710f3a)] text-center w-[1298px]" data-node-id="239:384">{`Échanger avec Maëva - coaching parental individuel, questions sur Bappoum et demandes d'accompagnement `}</p>
+            <p className="font-['Baloo_2:Regular'] font-normal leading-[26px] min-w-full relative shrink-0 text-[20px] text-black w-[min-content]" data-node-id="239:385">
+              Que tu cherches un abonnement, un coaching, une animation pour ton événement ou une intervention en entreprise — dis-nous ce dont tu as besoin, on revient vers toi sous 48h.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col h-[812px] items-start relative shrink-0 w-full" data-node-id="239:386">
+            <div className="content-stretch flex gap-[96px] items-start relative shrink-0 w-full" data-node-id="239:387">
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[24px] items-center justify-center min-w-px relative" data-node-id="239:388">
+                <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[41.6px] relative shrink-0 text-[32px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="239:389">
+                  Poser une question sur l’accompagnement parental
+                </p>
+                <div className="bg-[var(--label,#feefe2)] border border-[var(--rose,#eb4d94)] border-solid content-stretch flex flex-col gap-[48px] items-start justify-center overflow-clip p-[48px] relative rounded-[48px] shrink-0 w-full" data-node-id="239:390">
+                  <div className="absolute inset-[49.83%_calc(-0.84%-1.02px)_50.13%_calc(87.33%+0.75px)]" data-node-id="239:391">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2} />
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[48px] items-start justify-center relative shrink-0 w-full" data-node-id="239:394">
+                    <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-full" data-node-id="239:395">
+                      <div className="content-stretch flex gap-[24px] items-start relative shrink-0 w-full" data-node-id="239:396">
+                        <div className="content-stretch flex flex-[1_0_0] flex-col gap-[6px] items-start min-w-px relative" data-node-id="239:397">
+                          <p className="[word-break:break-word] font-['Albert_Sans:Medium'] font-medium leading-[28.6px] relative shrink-0 text-[22px] text-[color:var(--title,#710f3a)] w-full" data-node-id="239:398">
+                            Nom*
+                          </p>
+                          <div className="bg-[var(--blanc,#fffaf0)] border-[0.5px] border-[var(--title,#710f3a)] border-solid content-stretch flex items-center p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="239:399">
+                            <p className="[word-break:break-word] flex-[1_0_0] font-['Albert_Sans:Regular'] font-normal leading-[28.6px] min-w-px opacity-60 relative text-[22px] text-[color:var(--title,#710f3a)]" data-node-id="239:400">
+                              trucmuche
+                            </p>
+                          </div>
+                        </div>
+                        <div className="content-stretch flex flex-[1_0_0] flex-col gap-[6px] items-start min-w-px relative" data-node-id="239:401">
+                          <p className="[word-break:break-word] font-['Albert_Sans:Medium'] font-medium leading-[28.6px] relative shrink-0 text-[22px] text-[color:var(--title,#710f3a)] w-full" data-node-id="239:402">
+                            Prénom*
+                          </p>
+                          <div className="bg-[var(--blanc,#fffaf0)] border-[0.5px] border-[var(--title,#710f3a)] border-solid content-stretch flex items-center p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="239:403">
+                            <p className="[word-break:break-word] flex-[1_0_0] font-['Albert_Sans:Regular'] font-normal leading-[28.6px] min-w-px opacity-60 relative text-[22px] text-[color:var(--title,#710f3a)]" data-node-id="239:404">
+                              trucmuche
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-full" data-node-id="239:405">
+                        <p className="[word-break:break-word] font-['Albert_Sans:Medium'] font-medium leading-[28.6px] relative shrink-0 text-[22px] text-[color:var(--title,#710f3a)] w-full" data-node-id="239:406">
+                          Votre email*
+                        </p>
+                        <div className="bg-[var(--blanc,#fffaf0)] border-[0.5px] border-[var(--title,#710f3a)] border-solid content-stretch flex items-center p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="239:407">
+                          <p className="[word-break:break-word] font-['Albert_Sans:Regular'] font-normal leading-[28.6px] opacity-60 relative shrink-0 text-[22px] text-[color:var(--title,#710f3a)] whitespace-nowrap" data-node-id="239:408">
+                            trucmuche@gmail.com
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-full" data-node-id="239:409">
+                        <p className="[word-break:break-word] font-['Albert_Sans:Medium'] font-medium leading-[28.6px] relative shrink-0 text-[22px] text-[color:var(--title,#710f3a)] w-full" data-node-id="239:410">
+                          Téléphone
+                        </p>
+                        <div className="bg-[var(--blanc,#fffaf0)] border-[0.5px] border-[var(--title,#710f3a)] border-solid content-stretch flex items-center p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="239:411">
+                          <p className="[word-break:break-word] font-['Albert_Sans:Regular'] font-normal leading-[28.6px] opacity-60 relative shrink-0 text-[22px] text-[color:var(--title,#710f3a)] whitespace-nowrap" data-node-id="239:412">
+                            trucmuche@gmail.com
+                          </p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex flex-col gap-[6px] items-start relative shrink-0 w-full" data-node-id="239:413">
+                        <p className="[word-break:break-word] font-['Albert_Sans:Medium'] font-medium leading-[28.6px] relative shrink-0 text-[22px] text-[color:var(--title,#710f3a)] w-full" data-node-id="239:414">
+                          Besoins*
+                        </p>
+                        <div className="bg-[var(--blanc,#fffaf0)] border-[0.5px] border-[var(--title,#710f3a)] border-solid content-stretch flex items-center p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="239:415">
+                          <p className="[word-break:break-word] font-['Albert_Sans:Regular'] font-normal leading-[28.6px] opacity-60 relative shrink-0 text-[22px] text-[color:var(--title,#710f3a)] whitespace-nowrap" data-node-id="239:416">
+                            trucmuche@gmail.com
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="bg-[var(--rose,#eb4d94)] content-stretch flex items-center justify-center px-[32px] py-[16px] relative rounded-[48px] shrink-0 w-full" data-node-id="239:417">
+                      <div className="[word-break:break-word] flex flex-col font-['Albert_Sans:Medium'] font-medium justify-center leading-[0] relative shrink-0 text-[#f5faff] text-[22px] text-center whitespace-nowrap" data-node-id="239:418">
+                        <p className="leading-[normal]">On vous rappelle</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[36px] items-start min-w-px relative self-stretch" data-node-id="239:419">
+                <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="239:420">
+                  <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="239:421">
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[41.6px] relative shrink-0 text-[32px] text-black w-full whitespace-pre-wrap" data-node-id="239:422">{`Réserver votre séance découverte de coaching parental,  15 minutes offertes`}</p>
+                  </div>
+                </div>
+                <div className="flex-[1_0_0] min-h-px relative rounded-[24px] w-full" data-node-id="239:423" data-name="image 167">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[24px] size-full" src={imgImage167} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="411:4006">
+          <div className="bg-[var(--rose,#eb4d94)] content-stretch flex flex-col gap-[50px] items-start justify-center px-[100px] py-[96px] relative shrink-0 w-[1920px]" data-node-id="239:425">
+            <div className="content-stretch flex flex-col items-start p-[24px] relative rounded-[24px] shrink-0 w-full" data-node-id="239:426">
+              <div className="content-stretch flex flex-col gap-[50px] items-start justify-center relative shrink-0 w-[857px]" data-node-id="239:427">
+                <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[54px] relative shrink-0 text-[51px] text-[color:var(--blanc,#fffaf0)] w-full" data-node-id="239:428">
+                  Rejoindre Bavardons Parentalité : coaching parental, ateliers parents-enfants et plateforme Bappoum
+                </p>
+                <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[41.6px] relative shrink-0 text-[32px] text-[color:var(--blanc,#fffaf0)] w-full" data-node-id="239:429">
+                  Rejoins les 250 familles qui avancent chaque mois avec Bavardons Parentalité : un accompagnement parental bienveillant, concret et adapté à ta réalité.
+                </p>
+                <div className="content-stretch flex gap-[24px] items-start relative shrink-0 w-full" data-node-id="239:430">
+                  <div className="bg-[var(--title,#710f3a)] border border-[var(--title,#710f3a)] border-solid content-stretch flex items-center justify-center px-[24px] py-[12px] relative rounded-[12px] shrink-0" data-node-id="451:6867" data-name="Réserver ma séance">
+                    <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[26px] relative shrink-0 text-[20px] text-[color:var(--blanc,#fffaf0)] whitespace-nowrap" data-node-id="451:6868">
+                      Réserver ma séance découverte offerte
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[12px] items-start justify-center relative shrink-0" data-node-id="239:432">
+                    <div className="bg-[var(--blanc,#fffaf0)] content-stretch flex gap-[12px] items-center justify-center px-[24px] py-[12px] relative rounded-[12px] shrink-0" data-node-id="239:433" data-name="Découvrir Bappoum">
+                      <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[26px] relative shrink-0 text-[20px] text-[color:var(--rose,#eb4d94)] whitespace-nowrap" data-node-id="I239:433;209:202">
+                        Démarrer mon premier mois sur Bappoum
+                      </p>
+                      <div className="h-[22.002px] relative shrink-0 w-[24.629px]" data-node-id="I239:433;209:203" data-name="Calque_1-2">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque24} />
+                      </div>
+                    </div>
+                    <p className="[word-break:break-word] font-['Baloo_2:Medium'] font-medium leading-[19.5px] min-w-full relative shrink-0 text-[15px] text-[color:var(--blanc,#fffaf0)] text-center w-[min-content] whitespace-pre-wrap" data-node-id="239:434">{`Sans engagement – Accès immédiat  – Contenus créés par des professionnels`}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute flex inset-[-18.2%_-6.03%_-15.55%_54.91%] items-center justify-center" data-node-id="239:435" style={{ containerType: "size" }}>
+              <div className="-scale-x-100 flex-none h-[hypot(-20.9022cqw,78.6354cqh)] rotate-15 w-[hypot(-79.0978cqw,-21.3646cqh)]">
+                <div className="relative size-full" data-name="Calque_1-2">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque25} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[var(--label,#feefe2)] content-stretch flex flex-col gap-[48px] items-center justify-end px-[96px] py-[48px] relative shrink-0 w-[1920px]" data-node-id="411:3826" data-name="Footer">
+            <div className="content-stretch flex gap-[96px] items-center relative shrink-0 w-full" data-node-id="I411:3826;411:1655">
+              <div className="content-stretch flex flex-col h-[186px] items-start relative shrink-0" data-node-id="I411:3826;411:1656">
+                <div className="overflow-clip relative shrink-0 size-[186px]" data-node-id="I411:3826;411:1657" data-name="Patch bavardons orange 1">
+                  <div className="absolute contents inset-0" data-node-id="I411:3826;411:1658" data-name="Calque_1-2">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque26} />
+                    <div className="absolute inset-[13.87%_23.85%_60.38%_16.72%]" data-node-id="I411:3826;411:1660" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+                    </div>
+                    <div className="absolute inset-[65.13%_18.03%_13.84%_24.13%]" data-node-id="I411:3826;411:1661" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
+                    </div>
+                    <div className="absolute inset-[45.73%_51.98%_45.76%_41.03%]" data-node-id="I411:3826;411:1662" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
+                    </div>
+                    <div className="absolute contents inset-[45.73%_51.98%_45.76%_41.03%]" data-node-id="I411:3826;411:1663" data-name="Clip path group">
+                      <div className="absolute inset-[40.89%_9.65%_22.64%_13.23%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[51.707px_9.006px] mask-size-[12.992px_15.828px]" data-node-id="I411:3826;411:1666" style={{ maskImage: `url("${imgGroup}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[44.93%_43.74%_46.66%_51.05%]" data-node-id="I411:3826;411:1668" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector6} />
+                    </div>
+                    <div className="absolute contents inset-[44.93%_43.74%_46.66%_51.05%]" data-node-id="I411:3826;411:1669" data-name="Clip path group">
+                      <div className="absolute inset-[40.2%_8.27%_23.33%_14.61%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[67.785px_8.789px] mask-size-[9.689px_15.645px]" data-node-id="I411:3826;411:1672" style={{ maskImage: `url("${imgGroup3}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup4} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[44.93%_35.68%_43.25%_57.07%]" data-node-id="I411:3826;411:1674" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector7} />
+                    </div>
+                    <div className="absolute contents inset-[44.93%_35.68%_43.25%_57.07%]" data-node-id="I411:3826;411:1675" data-name="Clip path group">
+                      <div className="absolute inset-[43.37%_7.96%_20.16%_14.92%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[78.398px_2.9px] mask-size-[13.484px_21.998px]" data-node-id="I411:3826;411:1678" style={{ maskImage: `url("${imgGroup5}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup7} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[44.22%_27.13%_47.27%_65.43%]" data-node-id="I411:3826;411:1680" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+                    </div>
+                    <div className="absolute contents inset-[44.22%_27.13%_47.27%_65.43%]" data-node-id="I411:3826;411:1681" data-name="Clip path group">
+                      <div className="absolute inset-[39.43%_8.18%_24.11%_14.71%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[94.348px_8.918px] mask-size-[13.825px_15.826px]" data-node-id="I411:3826;411:1684" style={{ maskImage: `url("${imgGroup9}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[41.28%_18.53%_50.35%_74.62%]" data-node-id="I411:3826;411:1686" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector9} />
+                    </div>
+                    <div className="absolute contents inset-[41.28%_18.53%_50.35%_74.62%]" data-node-id="I411:3826;411:1687" data-name="Clip path group">
+                      <div className="absolute inset-[36.52%_8.08%_27.02%_14.8%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[111.262px_8.854px] mask-size-[12.746px_15.582px]" data-node-id="I411:3826;411:1690" style={{ maskImage: `url("${imgGroup10}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup11} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[41.6%_9.27%_49.87%_84.06%]" data-node-id="I411:3826;411:1692" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector10} />
+                    </div>
+                    <div className="absolute contents inset-[41.6%_9.27%_49.87%_84.06%]" data-node-id="I411:3826;411:1693" data-name="Clip path group">
+                      <div className="absolute inset-[36.82%_7.01%_26.71%_15.87%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[126.844px_8.883px] mask-size-[12.403px_15.861px]" data-node-id="I411:3826;411:1696" style={{ maskImage: `url("${imgGroup12}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup13} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[54.05%_78.59%_34.37%_12.94%]" data-node-id="I411:3826;411:1698" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector11} />
+                    </div>
+                    <div className="absolute contents inset-[54.05%_78.59%_34.37%_12.94%]" data-node-id="I411:3826;411:1699" data-name="Clip path group">
+                      <div className="absolute inset-[32.59%_11.1%_30.95%_11.78%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[2.148px_39.922px] mask-size-[15.767px_21.538px]" data-node-id="I411:3826;411:1702" style={{ maskImage: `url("${imgGroup14}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup15} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[44.37%_69.75%_47.12%_23.26%]" data-node-id="I411:3826;411:1704" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector12} />
+                    </div>
+                    <div className="absolute contents inset-[44.37%_69.75%_47.12%_23.26%]" data-node-id="I411:3826;411:1705" data-name="Clip path group">
+                      <div className="absolute inset-[19.62%_10.5%_43.91%_12.38%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[20.242px_46.031px] mask-size-[12.992px_15.828px]" data-node-id="I411:3826;411:1708" style={{ maskImage: `url("${imgGroup16}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup7} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[59.09%_63.23%_32.5%_31.56%]" data-node-id="I411:3826;411:1710" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector13} />
+                    </div>
+                    <div className="absolute contents inset-[59.09%_63.23%_32.5%_31.56%]" data-node-id="I411:3826;411:1711" data-name="Clip path group">
+                      <div className="absolute inset-[34.46%_10.85%_29.08%_12.03%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[36.313px_45.814px] mask-size-[9.689px_15.645px]" data-node-id="I411:3826;411:1714" style={{ maskImage: `url("${imgGroup17}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[57.3%_54.43%_34.22%_38.5%]" data-node-id="I411:3826;411:1716" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector14} />
+                    </div>
+                    <div className="absolute contents inset-[57.3%_54.43%_34.22%_38.5%]" data-node-id="I411:3826;411:1717" data-name="Clip path group">
+                      <div className="absolute inset-[32.59%_9.61%_30.94%_13.27%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[46.93px_45.963px] mask-size-[13.145px_15.77px]" data-node-id="I411:3826;411:1720" style={{ maskImage: `url("${imgGroup18}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[55.99%_45.52%_35.63%_47.62%]" data-node-id="I411:3826;411:1722" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector15} />
+                    </div>
+                    <div className="absolute contents inset-[55.99%_45.52%_35.63%_47.62%]" data-node-id="I411:3826;411:1723" data-name="Clip path group">
+                      <div className="absolute inset-[31.33%_9.21%_32.2%_13.67%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[63.156px_45.876px] mask-size-[12.746px_15.582px]" data-node-id="I411:3826;411:1726" style={{ maskImage: `url("${imgGroup19}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup20} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[58.45%_40.33%_31.16%_55.53%]" data-node-id="I411:3826;411:1728" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector16} />
+                    </div>
+                    <div className="absolute contents inset-[58.45%_40.33%_31.16%_55.53%]" data-node-id="I411:3826;411:1729" data-name="Clip path group">
+                      <div className="absolute inset-[35.79%_9.66%_27.74%_13.23%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[78.672px_42.146px] mask-size-[7.715px_19.316px]" data-node-id="I411:3826;411:1732" style={{ maskImage: `url("${imgGroup21}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[60.12%_32.09%_31.37%_60.92%]" data-node-id="I411:3826;411:1734" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector17} />
+                    </div>
+                    <div className="absolute contents inset-[60.12%_32.09%_31.37%_60.92%]" data-node-id="I411:3826;411:1735" data-name="Clip path group">
+                      <div className="absolute inset-[35.37%_9.74%_28.16%_13.14%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[88.863px_46.031px] mask-size-[12.992px_15.828px]" data-node-id="I411:3826;411:1738" style={{ maskImage: `url("${imgGroup22}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup11} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[54.9%_28.64%_33.52%_68.66%]" data-node-id="I411:3826;411:1740" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector18} />
+                    </div>
+                    <div className="absolute contents inset-[54.9%_28.64%_33.52%_68.66%]" data-node-id="I411:3826;411:1741" data-name="Clip path group">
+                      <div className="absolute inset-[33.44%_10.56%_30.1%_12.32%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[104.781px_39.923px] mask-size-[5.028px_21.535px]" data-node-id="I411:3826;411:1744" style={{ maskImage: `url("${imgGroup23}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup24} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[51.61%_18.4%_38.01%_77.45%]" data-node-id="I411:3826;411:1746" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector19} />
+                    </div>
+                    <div className="absolute contents inset-[51.61%_18.4%_38.01%_77.45%]" data-node-id="I411:3826;411:1747" data-name="Clip path group">
+                      <div className="absolute inset-[28.95%_10.01%_34.58%_12.88%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[120.113px_42.143px] mask-size-[7.715px_19.317px]" data-node-id="I411:3826;411:1750" style={{ maskImage: `url("${imgGroup25}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup26} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[51.67%_10.51%_36.71%_82.42%]" data-node-id="I411:3826;411:1752" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector20} />
+                    </div>
+                    <div className="absolute contents inset-[51.67%_10.51%_36.71%_82.42%]" data-node-id="I411:3826;411:1753" data-name="Clip path group">
+                      <div className="absolute inset-[30.1%_10.51%_33.43%_12.37%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[130.297px_40.11px] mask-size-[13.148px_21.626px]" data-node-id="I411:3826;411:1756" style={{ maskImage: `url("${imgGroup27}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup28} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[51.92%_24.1%_36.04%_73.35%]" data-node-id="I411:3826;411:1777" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector21} />
+                    </div>
+                    <div className="absolute contents inset-[51.92%_24.1%_36.04%_73.35%]" data-node-id="I411:3826;411:1778" data-name="Clip path group">
+                      <div className="absolute inset-[30.92%_10.06%_32.62%_12.82%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[112.582px_39.062px] mask-size-[4.75px_22.399px]" data-node-id="I411:3826;411:1781" style={{ maskImage: `url("${imgGroup29}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup30} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[40.79%_78.04%_47.63%_13.31%]" data-node-id="I411:3826;411:1783" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector22} />
+                    </div>
+                    <div className="absolute contents inset-[40.79%_78.04%_47.63%_13.31%]" data-node-id="I411:3826;411:1784" data-name="Clip path group">
+                      <div className="absolute inset-[39.23%_10.73%_24.3%_12.15%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[2.152px_2.897px] mask-size-[16.078px_21.538px]" data-node-id="I411:3826;411:1787" style={{ maskImage: `url("${imgGroup31}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup32} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[55.93%_70.27%_35.56%_22.75%]" data-node-id="I411:3826;411:1789" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector23} />
+                    </div>
+                    <div className="absolute contents inset-[55.93%_70.26%_35.56%_22.75%]" data-node-id="I411:3826;411:1790" data-name="Clip path group">
+                      <div className="absolute inset-[51.09%_11.18%_12.45%_11.7%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[20.551px_9.005px] mask-size-[12.992px_15.829px]" data-node-id="I411:3826;411:1793" style={{ maskImage: `url("${imgGroup33}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup34} />
+                      </div>
+                    </div>
+                    <div className="absolute inset-[47.98%_60.33%_43.83%_31.56%]" data-node-id="I411:3826;411:1795" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector24} />
+                    </div>
+                    <div className="absolute contents inset-[47.98%_60.33%_43.83%_31.56%]" data-node-id="I411:3826;411:1796" data-name="Clip path group">
+                      <div className="absolute inset-[43.04%_10.18%_20.5%_12.7%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[35.074px_9.192px] mask-size-[15.09px_15.243px]" data-node-id="I411:3826;411:1799" style={{ maskImage: `url("${imgGroup35}")` }} data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup36} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] gap-[96px] items-center min-w-px relative" data-node-id="I411:3826;411:1801">
+                <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="I411:3826;411:1802">
+                  <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[24px] h-full items-start min-w-px relative">
+                    <p className="font-['Baloo_2:Medium'] font-medium leading-[33.8px] opacity-90 relative shrink-0 text-[26px] text-[color:var(--title,#710f3a)] w-full" data-node-id="I411:3826;411:1803">
+                      Bavardons Parentalité
+                    </p>
+                    <div className="content-stretch flex flex-col font-['Baloo_2:Regular'] font-normal gap-[12px] items-start leading-[26px] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full" data-node-id="I411:3826;411:1804">
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1805">
+                        Approche
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1806">
+                        Accompagnements
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1807">
+                        Bappoum
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1808">
+                        Entreprises
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1809">
+                        Ressources
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1810">
+                        Blog
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="I411:3826;411:1811">
+                  <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[24px] h-full items-start min-w-px relative">
+                    <p className="font-['Baloo_2:Medium'] font-medium leading-[33.8px] opacity-90 relative shrink-0 text-[26px] text-[color:var(--title,#710f3a)] w-full" data-node-id="I411:3826;411:1812">
+                      Accompagnements
+                    </p>
+                    <div className="content-stretch flex flex-col font-['Baloo_2:Regular'] font-normal gap-[12px] items-start leading-[26px] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full" data-node-id="I411:3826;411:1813">
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1814">
+                        Coaching parental individuel
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1815">
+                        Ateliers parents-enfants
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1816">
+                        Animation événementielle
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1817">
+                        Interventions en entreprise
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="I411:3826;411:1818">
+                  <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[24px] h-full items-start min-w-px relative">
+                    <p className="font-['Baloo_2:Medium'] font-medium leading-[33.8px] opacity-90 relative shrink-0 text-[26px] text-[color:var(--title,#710f3a)] w-full" data-node-id="I411:3826;411:1819">
+                      Bappoum
+                    </p>
+                    <div className="content-stretch flex flex-col font-['Baloo_2:Regular'] font-normal gap-[12px] items-start leading-[26px] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full" data-node-id="I411:3826;411:1820">
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1821">
+                        Comment ça marche
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1822">
+                        Tarifs et formules
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1823">
+                        Créer un compte gratuit
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1824">
+                        Se connecter
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="I411:3826;411:1825">
+                  <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[24px] h-full items-start min-w-px relative">
+                    <p className="font-['Baloo_2:Medium'] font-medium leading-[33.8px] opacity-90 relative shrink-0 text-[26px] text-[color:var(--title,#710f3a)] whitespace-nowrap" data-node-id="I411:3826;411:1826">
+                      Informations
+                    </p>
+                    <div className="content-stretch flex flex-col font-['Baloo_2:Regular'] font-normal gap-[12px] items-start leading-[26px] relative shrink-0 text-[20px] text-[color:var(--txt,#17030c)] w-full" data-node-id="I411:3826;411:1827">
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1828">
+                        Mentions légales
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1829">
+                        Politique de confidentialité
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1830">
+                        CGU
+                      </p>
+                      <p className="opacity-80 overflow-hidden relative shrink-0 text-ellipsis w-full" data-node-id="I411:3826;411:1831">
+                        Contact
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[26px] opacity-80 overflow-hidden relative shrink-0 text-[20px] text-[color:var(--rose,#eb4d94)] text-ellipsis whitespace-pre" data-node-id="I411:3826;411:1832">{`© 2026 Bavardons Parentalité · Maëva Abadie,  spécialiste en développement de l'enfant`}</p>
+          </div>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute bg-[var(--label,#feefe2)] content-stretch flex items-center justify-between left-1/2 px-[100px] py-[32px] top-0 w-[1920px]" data-node-id="344:623" data-name="navbar">
+        <a className="content-stretch cursor-pointer flex items-start justify-center relative shrink-0 size-[64px]" data-node-id="I344:623;307:1332" data-name="Container:align-flex-start">
+          <div className="content-stretch flex items-start justify-center max-w-[64px] min-w-[64px] overflow-clip relative rounded-[2.56px] shrink-0 size-[64px]" data-node-id="I344:623;307:1333" data-name="Container">
+            <div className="flex-[1_0_0] h-full min-w-px relative rounded-[2.56px]" data-node-id="I344:623;307:1334" data-name="Fichier%2016.png">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[2.56px]">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFichier2016Png} />
+              </div>
+            </div>
+          </div>
+        </a>
+        <div className="content-stretch flex gap-[32px] items-center relative shrink-0" data-node-id="I344:623;307:1335">
+          <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[normal] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="I344:623;307:1337">
+            Approche
+          </p>
+          <a className="[word-break:break-word] block cursor-pointer font-['Baloo_2:Regular'] font-normal leading-[0] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="I344:623;307:1336">
+            <p className="leading-[normal]">Accompagnements</p>
+          </a>
+          <a className="content-stretch cursor-pointer flex gap-[10px] items-center justify-center relative shrink-0" data-node-id="I344:623;307:1338" data-name="Bappoum">
+            <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[normal] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] text-left whitespace-nowrap" data-node-id="I344:623;307:1338;98:361">
+              Bappoum
+            </p>
+            <div className="h-[22px] relative shrink-0 w-[24.628px]" data-node-id="I344:623;307:1338;98:368" data-name="Calque_1-2">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCalque14} />
+            </div>
+          </a>
+          <a className="[word-break:break-word] block cursor-pointer font-['Baloo_2:Regular'] font-normal leading-[0] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="I344:623;307:1357">
+            <p className="leading-[normal]">Entreprises</p>
+          </a>
+          <p className="[word-break:break-word] font-['Baloo_2:Regular'] font-normal leading-[normal] relative shrink-0 text-[22px] text-[color:var(--txt,#17030c)] whitespace-nowrap" data-node-id="I344:623;307:1340">
+            Ressources
+          </p>
+        </div>
+        <div className="content-stretch flex gap-[24px] items-center relative shrink-0" data-node-id="I344:623;307:1341">
+          <ReserverMaSeance className="bg-[var(--blanc,#fffaf0)] border border-[var(--jaune,#f59b3d)] border-solid content-stretch flex items-center justify-center px-[24px] py-[12px] relative rounded-[12px] shrink-0" />
+          <CommencerGratuitement className="bg-[var(--rose,#eb4d94)] content-stretch flex h-[59px] items-center justify-center px-[24px] py-[12px] relative rounded-[12px] shrink-0" />
+        </div>
+      </div>
+    </div>
+  );
+}
+]]></source>
+</frame>
