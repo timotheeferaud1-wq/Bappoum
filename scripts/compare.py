@@ -24,6 +24,11 @@ async def shot():
         pg = await b.new_page(viewport={"width": width, "height": 1000})
         await pg.goto(f"http://localhost:{port}{path}", wait_until="networkidle")
         await pg.evaluate("document.fonts.ready")
+        # force le chargement des images lazy
+        await pg.evaluate("document.querySelectorAll('img[loading=lazy]').forEach(i => i.loading = 'eager')")
+        await pg.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        await pg.wait_for_timeout(800)
+        await pg.evaluate("window.scrollTo(0, 0)")
         await pg.wait_for_timeout(300)
         await pg.screenshot(path="/tmp/_site.png", full_page=True)
         await b.close()

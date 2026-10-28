@@ -1,0 +1,607 @@
+<frame id="394:2498" name="Accueil v2" x="879" y="1387" width="1920" height="11380">
+  <frame id="394:2499" name="Calque_1-2" x="1026.54296875" y="191.130859375" width="764.4251708984375" height="682.8690185546875">
+    <vector id="394:2500" name="Vector" x="1026.54296875" y="721.3966064453125" width="626.1936638621846" height="537.696556709292" />
+    <vector id="394:2501" name="Vector" x="1094.984375" y="191.130859375" width="178.8068389892578" height="157.71812438964844" />
+    <vector id="394:2502" name="Vector" x="1317.80859375" y="191.130859375" width="157.71812438964844" height="157.71812438964844" />
+    <vector id="394:2503" name="Vector" x="1512.20703125" y="277.3310546875" width="157.71812438964844" height="157.71815490722656" />
+    <vector id="394:2504" name="Vector" x="1633.25" y="457.0556640625" width="157.71812438964844" height="157.71815490722656" />
+  </frame>
+  <frame id="394:2505" name="Calque_1-2" x="-13.397010803222656" y="853.0046997070312" width="190.7090932390056" height="190.59340214457916" />
+  <text id="394:2511" name="Text" x="222" y="6528" width="599" height="130" />
+  <frame id="394:2512" name="Frame 39870" x="-7" y="0" width="1927" height="11386.2763671875">
+    <frame id="394:2513" name="Frame 39767" x="0" y="0" width="1927" height="928.2759399414062">
+      <instance id="394:2514" name="navbar" x="3.5" y="0" width="1920" height="128" />
+      <frame id="394:2515" name="Frame 39769" x="3.5" y="192" width="1920" height="736.2759399414062">
+        <vector id="394:2516" name="Vector" x="1102.5" y="-24" width="756" height="794" />
+        <frame id="394:2517" name="Frame 39768" x="100" y="0" width="1720" height="736.2759399414062">
+          <frame id="394:2518" name="Frame 39766" x="0" y="119.27593994140625" width="879" height="497.72406005859375">
+            <frame id="394:2519" name="Frame 39869" x="0" y="0" width="879" height="222.72406005859375">
+              <frame id="394:2520" name="Container" x="0" y="0" width="384" height="44.72405242919922">
+                <frame id="394:2521" name="Margin" x="12" y="2.3620262145996094" width="252" height="40">
+                  <text id="394:2522" name="+ 250 familles accompagnées" x="0" y="8" width="252" height="32" />
+                </frame>
+                <frame id="394:2523" name="Frame 39856" x="276" y="0" width="96" height="44.72405242919922">
+                  <frame id="394:2524" name="Frame 39739" x="0" y="0" width="96" height="44.72405242919922">
+                    <ellipse id="394:2525" name="Ellipse 16" x="0" y="10.36202621459961" width="24" height="24" />
+                    <ellipse id="394:2526" name="Ellipse 17" x="18" y="10.36202621459961" width="24" height="24" />
+                    <ellipse id="394:2527" name="Ellipse 21" x="36" y="10.36202621459961" width="24" height="24" />
+                    <ellipse id="394:2528" name="Ellipse 22" x="54" y="10.36202621459961" width="24" height="24" />
+                    <ellipse id="394:2529" name="Ellipse 20" x="72" y="10.36202621459961" width="24" height="24" />
+                  </frame>
+                </frame>
+              </frame>
+              <text id="411:1393" name="Bavardons Parentalité - Accompagnement parental bienveillant pour les parents d&#39;enfants de 0 à 18 ans" x="0" y="60.72406005859375" width="879" height="162" />
+            </frame>
+            <text id="394:2531" name="Parce que devenir parent, ça ne s&#39;apprend pas. Bavardons Parentalité accompagne les familles avec Bappoum, la plateforme mensuelle créée par Maëva Abadie, spécialisée dans le développement de l&#39;enfant." x="0" y="270.72406005859375" width="821" height="78" />
+            <frame id="394:2532" name="Frame 6" x="0" y="396.72406005859375" width="879" height="101">
+              <frame id="394:2534" name="Frame 39770" x="0" y="0" width="270" height="101">
+                <instance id="447:6201" name="Réserver ma séance" x="0" y="0" width="270" height="50" />
+                <text id="394:2536" name="15j offerts - Sans engagement - sans carte bleu" x="0" y="62" width="270" height="39" />
+              </frame>
+              <frame id="447:6191" name="Frame 39771" x="294" y="0" width="283.5" height="101">
+                <instance id="447:6192" name="Découvrir Bappoum" x="0" y="0" width="283.5" height="50" />
+                <text id="447:6193" name="Sans engagement – Accès immédiat – Contenus créés par des professionnels" x="0" y="62" width="283.5" height="39" />
+              </frame>
+            </frame>
+          </frame>
+          <rounded-rectangle id="394:2537" name="124 (1) (1) 1" x="1003" y="0" width="717" height="736.2759399414062" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="394:2538" name="Frame 39772" x="0" y="1072.27587890625" width="1927" height="580">
+      <frame id="395:3814" name="Frame 40124" x="100" y="0" width="1727" height="580">
+        <text id="395:4018" name="Bavardons Parentalité accompagne tous les parents" x="0" y="0" width="1150" height="54" />
+        <frame id="395:4020" name="Frame 40125" x="0" y="102" width="1727" height="478">
+          <frame id="395:3983" name="Frame 39850" x="0" y="0" width="307" height="418">
+            <vector id="395:3984" name="Vector" x="0" y="0" width="307" height="250" />
+            <frame id="395:3985" name="Frame 40085" x="0" y="274" width="307" height="144">
+              <frame id="395:3986" name="Frame 39822" x="16" y="0" width="275" height="144">
+                <frame id="395:3987" name="Frame 39847" x="0" y="0" width="275" height="34">
+                  <text id="395:3995" name="Jeunes parents" x="0" y="0" width="275" height="34" />
+                </frame>
+                <frame id="395:3996" name="Frame 39815" x="0" y="40" width="275" height="104">
+                  <text id="395:3999" name="Tu viens d&#39;accueillir ton enfant et tu navigues à vue. Tu cherches des repères concrets, sans jugement." x="0" y="0" width="275" height="104" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="395:3947" name="Frame 39848" x="355" y="0" width="307" height="444">
+            <vector id="395:3948" name="Vector" x="0" y="0" width="307" height="250" />
+            <frame id="395:3949" name="Frame 40085" x="0" y="274" width="307" height="170">
+              <frame id="395:3950" name="Frame 39822" x="16" y="0" width="275" height="170">
+                <frame id="395:3951" name="Frame 39847" x="0" y="0" width="275" height="34">
+                  <text id="395:3959" name="Le parent épuisé" x="0" y="0" width="275" height="34" />
+                </frame>
+                <frame id="395:3960" name="Frame 39815" x="0" y="40" width="275" height="130">
+                  <text id="395:3963" name="Tu donnes tout, mais tu te sens à bout. Tu as besoin de souffler, de comprendre et de retrouver de la douceur dans ton quotidien." x="0" y="0" width="275" height="130" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="395:4001" name="Frame 39851" x="710" y="0" width="307" height="418">
+            <vector id="395:4002" name="Vector" x="0" y="0" width="307" height="250" />
+            <frame id="395:4003" name="Frame 40085" x="0" y="274" width="307" height="144">
+              <frame id="395:4004" name="Frame 39822" x="16" y="0" width="275" height="144">
+                <frame id="395:4005" name="Frame 39847" x="0" y="0" width="275" height="34">
+                  <text id="395:4013" name="Parents d&#39;adolescents" x="0" y="0" width="275" height="34" />
+                </frame>
+                <frame id="395:4014" name="Frame 39815" x="0" y="40" width="275" height="104">
+                  <text id="395:4017" name="La relation avec ton ado se tend et tu ne sais plus comment lui parler. Tu veux renouer sans t&#39;imposer." x="0" y="0" width="275" height="104" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="395:3965" name="Frame 39849" x="1065" y="0" width="307" height="478">
+            <vector id="395:3966" name="Vector" x="0" y="0" width="307" height="250" />
+            <frame id="395:3967" name="Frame 40085" x="0" y="274" width="307" height="204">
+              <frame id="395:3968" name="Frame 39822" x="16" y="0" width="275" height="204">
+                <frame id="395:3969" name="Frame 39847" x="0" y="0" width="275" height="68">
+                  <text id="395:3977" name="Le parent en questionnement" x="0" y="0" width="275" height="68" />
+                </frame>
+                <frame id="395:3978" name="Frame 39815" x="0" y="74" width="275" height="130">
+                  <text id="395:3981" name="Tu remets en question tes façons de faire. Tu veux une parentalité plus consciente, plus apaisée, plus alignée avec tes valeurs." x="0" y="0" width="275" height="130" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="395:3908" name="Frame 39847" x="1420" y="0" width="307" height="470">
+            <vector id="395:3945" name="Vector" x="0" y="0" width="307" height="250" />
+            <frame id="395:3911" name="Frame 40085" x="0" y="274" width="307" height="196">
+              <frame id="395:3912" name="Frame 39822" x="16" y="0" width="275" height="196">
+                <frame id="395:3913" name="Frame 39847" x="0" y="0" width="275" height="34">
+                  <text id="395:3921" name="Futur parents" x="0" y="0" width="275" height="34" />
+                </frame>
+                <frame id="395:3922" name="Frame 39815" x="0" y="40" width="275" height="156">
+                  <text id="395:3925" name="Un bébé arrive et tu as envie de bien faire. Tu souhaites vivre une grossesse apaisée, anticiper le post-partum et construire ton projet de parentalité en toute clarté." x="0" y="0" width="275" height="156" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="394:2571" name="Frame 39773" x="0" y="1796.27587890625" width="1927" height="625">
+      <frame id="394:2572" name="Frame 39772" x="100" y="161" width="837" height="303">
+        <text id="394:2573" name="Deviens le parent que tu veux être" x="0" y="0" width="837" height="54" />
+        <text id="394:2574" name="Des outils concrets, des professionnels disponibles, une communauté bienveillante — tout ce qu&#39;il te faut pour avancer à ton rythme." x="0" y="102" width="837" height="52" />
+        <frame id="394:2575" name="Frame 39782" x="0" y="202" width="283.5" height="101">
+          <frame id="411:1416" name="Frame 39770" x="0" y="0" width="283.5" height="101">
+            <instance id="411:1417" name="Découvrir Bappoum" x="0" y="0" width="283.5" height="50" />
+            <text id="411:1418" name="Profiter des 15 premiers jours offerts - sans carte bancaire" x="0" y="62" width="283.5" height="39" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="411:1608" name="Frame 37" x="1061" y="0" width="766" height="625" />
+    </frame>
+    <frame id="395:4056" name="Frame 40126" x="0" y="2565.27587890625" width="1927" height="798">
+      <frame id="395:4076" name="Frame 40127" x="100" y="0" width="746" height="798">
+        <frame id="395:4021" name="Frame 40001" x="0" y="0" width="232.6666717529297" height="250">
+          <frame id="395:4130" name="Frame 40128" x="0" y="0" width="232.6666717529297" height="250">
+            <vector id="395:4022" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4137" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4138" name="Épuisement" x="29.177040100097656" y="12" width="174.6459197998047" height="34" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="395:4150" name="Frame 40003" x="256.66668701171875" y="0" width="232.66665649414062" height="250">
+          <frame id="395:4151" name="Frame 40128" x="0" y="0" width="232.66665649414062" height="250">
+            <vector id="395:4152" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4153" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4154" name="Émotions" x="29.177040100097656" y="12" width="174.6459197998047" height="34" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="395:4144" name="Frame 40002" x="513.3333740234375" y="0" width="232.66665649414062" height="250">
+          <frame id="395:4145" name="Frame 40128" x="0" y="0" width="232.66665649414062" height="250">
+            <vector id="395:4146" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4147" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4148" name="Confiance" x="29.177040100097656" y="12" width="174.6459197998047" height="34" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="395:4171" name="Frame 40004" x="0" y="274" width="232.66665649414062" height="250">
+          <frame id="395:4172" name="Frame 40128" x="0" y="0" width="232.66665649414062" height="250">
+            <vector id="395:4173" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4174" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4175" name="Alimentation" x="29.177040100097656" y="12" width="174.6459197998047" height="34" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="395:4176" name="Frame 40005" x="256.6666564941406" y="274" width="232.66665649414062" height="250">
+          <frame id="395:4177" name="Frame 40128" x="0" y="0" width="232.66665649414062" height="250">
+            <vector id="395:4178" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4179" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4180" name="Écrans" x="29.177040100097656" y="12" width="174.6459197998047" height="34" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="395:4181" name="Frame 40006" x="513.3333129882812" y="274" width="232.66665649414062" height="250">
+          <frame id="395:4182" name="Frame 40128" x="0" y="0" width="232.66665649414062" height="250">
+            <vector id="395:4183" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4184" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4185" name="Sexualité" x="29.177040100097656" y="12" width="174.6459197998047" height="34" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="395:4186" name="Frame 40007" x="0" y="548" width="232.66665649414062" height="250">
+          <frame id="395:4187" name="Frame 40128" x="0" y="0" width="232.66665649414062" height="250">
+            <vector id="395:4188" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4189" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4190" name="Couple" x="29.177040100097656" y="12" width="174.6459197998047" height="34" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="395:4191" name="Frame 40008" x="256.6666564941406" y="548" width="232.66665649414062" height="250">
+          <frame id="395:4192" name="Frame 40128" x="0" y="0" width="232.66665649414062" height="250">
+            <vector id="395:4193" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4194" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4195" name="Scolarité" x="29.177040100097656" y="12" width="174.6459197998047" height="34" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="395:4196" name="Frame 40009" x="513.3333129882812" y="548" width="232.66665649414062" height="250">
+          <frame id="395:4197" name="Frame 40128" x="0" y="0" width="232.66665649414062" height="250">
+            <vector id="395:4198" name="Vector" x="0" y="0" width="232.6666717529297" height="250" />
+            <frame id="395:4199" name="Frame 40129" x="0" y="192.224609375" width="233" height="58">
+              <text id="395:4200" name="Communication" x="27" y="12" width="179" height="34" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="411:1430" name="Frame 1171275617" x="990" y="232.5" width="832" height="333">
+        <frame id="411:1445" name="Frame 1171275618" x="0" y="0" width="832" height="184">
+          <text id="395:4057" name="Bappoum, la plateforme d&#39;accompagnement parental mensuel" x="0" y="0" width="832" height="108" />
+          <text id="411:1427" name="Chaque mois, une thématique abordée en profondeur par des psychologues et professionnels de l&#39;enfance — en lives, podcasts et ressources, accessibles 24h/24." x="0" y="132" width="832" height="52" />
+        </frame>
+        <frame id="411:1431" name="Frame 6" x="0" y="232" width="832" height="101">
+          <instance id="411:1432" name="Réserver ma séance" x="0" y="0" width="270" height="50" />
+          <frame id="411:1433" name="Frame 39770" x="294" y="0" width="283.5" height="101">
+            <instance id="411:1455" name="Découvrir Bappoum" x="0" y="0" width="283.5" height="50" />
+            <text id="411:1435" name="Sans engagement – Accès immédiat – Contenus créés par des professionnels" x="0" y="62" width="283.5" height="39" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="394:2589" name="Frame 39841" x="0" y="3507.27587890625" width="1927" height="718">
+      <frame id="394:2590" name="Frame 39845" x="100" y="0" width="1727" height="718">
+        <text id="394:2591" name="Tous les accompagnements Bavardons Parentalité : plateforme, coaching et ateliers." x="0" y="0" width="995" height="108" />
+        <frame id="451:6764" name="Frame 40126" x="0" y="156" width="1727" height="562">
+          <frame id="451:6765" name="Frame 39847" x="0" y="0" width="543.6666870117188" height="562">
+            <vector id="451:6766" name="Vector" x="0" y="0" width="543.6666870117188" height="250" />
+            <frame id="451:6767" name="Frame 40085" x="0" y="283" width="543.6666870117188" height="180">
+              <frame id="451:6768" name="Frame 39822" x="16" y="0" width="511.66668701171875" height="180">
+                <frame id="451:6769" name="Frame 39847" x="0" y="0" width="511.66668701171875" height="34">
+                  <frame id="451:6770" name="Frame 40096" x="0" y="0" width="16.020755767822266" height="28.001068115234375">
+                    <frame id="451:6771" name="Calque_1-2" x="-5.421010862427522e-20" y="6" width="16.020755767822266" height="16.001068115234375" />
+                  </frame>
+                  <text id="451:6777" name="Bappoum, la plateforme" x="26.020755767822266" y="0" width="485.64593505859375" height="34" />
+                </frame>
+                <frame id="451:6778" name="Frame 39815" x="0" y="46" width="511.66668701171875" height="134">
+                  <frame id="451:6779" name="Container" x="0" y="0" width="209" height="32">
+                    <text id="451:6780" name="Lives · Podcasts · Ressources" x="12" y="6" width="185" height="20" />
+                  </frame>
+                  <text id="451:6781" name="L&#39;accompagnement parental mensuel en ligne. Une thématique par mois, des professionnels, un replay à vie. À partir de 16€/mois." x="0" y="56" width="511.66668701171875" height="78" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="451:6782" name="Frame 1171275638" x="0" y="496" width="251" height="50">
+              <instance id="451:6783" name="Réserver ma séance" x="16" y="0" width="219" height="50" />
+            </frame>
+          </frame>
+          <frame id="451:6784" name="Frame 39850" x="579.6666870117188" y="0" width="543" height="562">
+            <frame id="451:6785" name="Frame 1171275633" x="0" y="0" width="543" height="428">
+              <vector id="451:6786" name="Vector" x="0" y="0" width="543" height="250" />
+              <frame id="451:6787" name="Frame 40085" x="0" y="274" width="543" height="154">
+                <frame id="451:6788" name="Frame 39822" x="16" y="0" width="511" height="154">
+                  <frame id="451:6789" name="Frame 39847" x="0" y="0" width="511" height="34">
+                    <text id="451:6790" name="Coaching individuel" x="0" y="0" width="511" height="34" />
+                  </frame>
+                  <frame id="451:6791" name="Frame 39815" x="0" y="46" width="511" height="108">
+                    <frame id="451:6792" name="Container" x="0" y="0" width="214" height="32">
+                      <text id="451:6793" name="Visio · Présentiel · Sur mesure" x="12" y="6" width="190" height="20" />
+                    </frame>
+                    <text id="451:6794" name="Un accompagnement personnalisé avec Maëva, adapté à ta situation. Première séance découverte de 40 min offerte." x="0" y="56" width="511" height="52" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="451:6853" name="Réserver ma séance" x="0" y="512" width="365" height="50">
+              <text id="451:6854" name="Réserver ma séance découverte offerte" x="24" y="12" width="317" height="26" />
+            </frame>
+          </frame>
+          <frame id="451:6796" name="Frame 39849" x="1158.666748046875" y="0" width="544" height="562">
+            <frame id="451:6797" name="Frame 1171275634" x="0" y="0" width="544" height="462">
+              <vector id="451:6798" name="Vector" x="0" y="0" width="544" height="250" />
+              <frame id="451:6799" name="Frame 40085" x="0" y="274" width="544" height="188">
+                <frame id="451:6800" name="Frame 39822" x="16" y="0" width="512" height="188">
+                  <frame id="451:6801" name="Frame 39847" x="0" y="0" width="248.979248046875" height="68">
+                    <text id="451:6802" name="Interventions en entreprise" x="0" y="0" width="248.979248046875" height="68" />
+                  </frame>
+                  <frame id="451:6803" name="Frame 39815" x="0" y="80" width="512" height="108">
+                    <frame id="451:6804" name="Container" x="0" y="0" width="259" height="32">
+                      <text id="451:6805" name="Webinaires · Conférences · Bappoum" x="12" y="6" width="235" height="20" />
+                    </frame>
+                    <text id="451:6806" name="Webinaires, conférences et accès Bappoum pour soutenir vos collaborateurs parents." x="0" y="56" width="512" height="52" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="451:6851" name="Réserver ma séance" x="0" y="512" width="281" height="50">
+              <text id="451:6852" name="Réserver ma séance découverte offerte" x="24" y="12" width="233" height="26" />
+            </frame>
+          </frame>
+          <frame id="451:6808" name="Frame 39851" x="1738.666748046875" y="0" width="543" height="562">
+            <frame id="451:6809" name="Frame 1171275635" x="0" y="0" width="543" height="488">
+              <vector id="451:6810" name="Vector" x="0" y="0" width="543" height="250" />
+              <frame id="451:6811" name="Frame 40085" x="0" y="274" width="543" height="214">
+                <frame id="451:6812" name="Frame 39822" x="16" y="0" width="511" height="214">
+                  <frame id="451:6813" name="Frame 39847" x="0" y="0" width="248.979248046875" height="68">
+                    <text id="451:6814" name="Secteur petite enfance" x="0" y="0" width="248.979248046875" height="68" />
+                  </frame>
+                  <frame id="451:6815" name="Frame 39815" x="0" y="80" width="511" height="134">
+                    <frame id="451:6816" name="Container" x="0" y="0" width="219" height="32">
+                      <text id="451:6817" name="Crèches · Écoles · Associations" x="12" y="6" width="195" height="20" />
+                    </frame>
+                    <text id="451:6818" name="Vous accompagnez des familles avec de jeunes enfants. Bavardons Parentalité intervient auprès de vos équipes et des parents que vous soutenez." x="0" y="56" width="511" height="78" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="451:6855" name="Réserver ma séance" x="0" y="512" width="386" height="50">
+              <text id="451:6856" name="Réserver ma séance découverte offerte" x="24" y="12" width="338" height="26" />
+            </frame>
+          </frame>
+          <frame id="451:6820" name="Frame 39852" x="2317.666748046875" y="0" width="544" height="562">
+            <frame id="451:6821" name="Frame 1171275636" x="0" y="0" width="544" height="462">
+              <vector id="451:6822" name="Vector" x="0" y="0" width="544" height="250" />
+              <frame id="451:6823" name="Frame 40085" x="0" y="274" width="544" height="188">
+                <frame id="451:6824" name="Frame 39822" x="16" y="0" width="512" height="188">
+                  <frame id="451:6825" name="Frame 39847" x="0" y="0" width="248.979248046875" height="68">
+                    <text id="451:6826" name="Ateliers parents-enfants" x="0" y="0" width="248.979248046875" height="68" />
+                  </frame>
+                  <frame id="451:6827" name="Frame 39815" x="0" y="80" width="512" height="108">
+                    <frame id="451:6828" name="Container" x="0" y="0" width="225" height="32">
+                      <text id="451:6829" name="Présentiel · En famille · Ludique" x="12" y="6" width="201" height="20" />
+                    </frame>
+                    <text id="451:6830" name="Des moments pour se reconnecter en famille autour d&#39;activités concrètes et bienveillantes." x="0" y="56" width="512" height="52" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="451:6857" name="Réserver ma séance" x="0" y="512" width="257" height="50">
+              <text id="451:6858" name="Réserver ma séance découverte offerte" x="24" y="12" width="209" height="26" />
+            </frame>
+          </frame>
+          <frame id="451:6832" name="Frame 39853" x="2897.666748046875" y="0" width="543" height="562">
+            <frame id="451:6833" name="Frame 1171275637" x="0" y="0" width="543" height="462">
+              <vector id="451:6834" name="Vector" x="0" y="0" width="543" height="250" />
+              <frame id="451:6835" name="Frame 40085" x="0" y="274" width="543" height="188">
+                <frame id="451:6836" name="Frame 39822" x="16" y="0" width="511" height="188">
+                  <frame id="451:6837" name="Frame 39847" x="0" y="0" width="248.979248046875" height="68">
+                    <text id="451:6838" name="Animation événementielle" x="0" y="0" width="248.979248046875" height="68" />
+                  </frame>
+                  <frame id="451:6839" name="Frame 39815" x="0" y="80" width="511" height="108">
+                    <frame id="451:6840" name="Container" x="0" y="0" width="266" height="32">
+                      <text id="451:6841" name="Mariages · Anniversaires · Entreprises" x="12" y="6" width="242" height="20" />
+                    </frame>
+                    <text id="451:6842" name="Des animations clés en main pour vos événements familiaux et professionnels. Plus de 35 événements animés." x="0" y="56" width="511" height="52" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="451:6859" name="Réserver ma séance" x="0" y="512" width="289" height="50">
+              <text id="451:6860" name="Réserver ma séance découverte offerte" x="24" y="12" width="241" height="26" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="411:1560" name="Frame 39836" x="0" y="4369.27587890625" width="1927" height="1090">
+      <frame id="411:1641" name="Frame 1171275619" x="100" y="0" width="1727" height="673">
+        <text id="411:1606" name="Plus de 40 professionnels experts en développement de l&#39;enfant" x="0" y="0" width="758" height="108" />
+        <frame id="411:1628" name="Frame 40128" x="0" y="156" width="1727" height="517">
+          <frame id="411:1629" name="Frame 40130" x="0" y="60.5" width="575" height="396">
+            <frame id="411:1630" name="Frame 39772" x="0" y="0" width="575" height="100">
+              <text id="411:1631" name="Psychologues cliniciens" x="0" y="0" width="575" height="42" />
+              <text id="411:1632" name="Spécialisés dans le développement de l&#39;enfant et de l&#39;adolescent, ils interviennent chaque mois sur Bappoum en live et en podcast." x="0" y="48" width="575" height="52" />
+            </frame>
+            <frame id="411:1633" name="Frame 39775" x="0" y="148" width="575" height="100">
+              <text id="411:1634" name="Éducateurs spécialisés" x="0" y="0" width="575" height="42" />
+              <text id="411:1635" name="Professionnels du terrain, ils partagent des outils concrets et applicables immédiatement dans le quotidien des familles." x="0" y="48" width="575" height="52" />
+            </frame>
+            <frame id="411:1636" name="Frame 39776" x="0" y="296" width="575" height="100">
+              <text id="411:1637" name="Professionnels de santé" x="0" y="0" width="575" height="42" />
+              <text id="411:1638" name="Pédiatres, orthophonistes, diététiciens... pour aborder chaque thématique avec une approche globale et bienveillante." x="0" y="48" width="575" height="52" />
+            </frame>
+          </frame>
+          <vector id="411:1639" name="Vector" x="719" y="0" width="1008" height="517" />
+        </frame>
+      </frame>
+      <frame id="411:1562" name="Frame 39792" x="100" y="769" width="1727" height="321">
+        <frame id="411:1563" name="Frame 39787" x="0" y="0" width="261.29998779296875" height="295">
+          <frame id="411:1564" name="Mask group" x="0" y="0" width="198" height="222">
+            <vector id="411:1565" name="Vector" x="0" y="0" width="198" height="222" />
+            <vector id="411:1566" name="Vector" x="-50.5" y="0" width="299" height="224" />
+          </frame>
+          <frame id="411:1567" name="Frame 39786" x="0" y="234" width="261.29998779296875" height="61">
+            <text id="411:1568" name="Julien Dubois" x="0" y="0" width="261.29998779296875" height="29" />
+            <text id="411:1569" name="Spécialiste petite enfance" x="0" y="35" width="261.29998779296875" height="26" />
+          </frame>
+        </frame>
+        <frame id="411:1570" name="Frame 39822" x="297.29998779296875" y="0" width="261.29998779296875" height="321">
+          <frame id="411:1571" name="Mask group" x="0" y="0" width="198" height="222">
+            <vector id="411:1572" name="Vector" x="0" y="0" width="198" height="222" />
+            <vector id="411:1573" name="Vector" x="-49" y="0" width="299" height="224" />
+          </frame>
+          <frame id="411:1574" name="Frame 39787" x="0" y="234" width="261.29998779296875" height="87">
+            <text id="411:1575" name="Maeva Reuss" x="0" y="0" width="261.29998779296875" height="29" />
+            <text id="411:1576" name="Consultant en éducation spécialisée" x="0" y="35" width="261.29998779296875" height="52" />
+          </frame>
+        </frame>
+        <frame id="411:1577" name="Frame 39821" x="594.5999755859375" y="0" width="261.29998779296875" height="321">
+          <frame id="411:1578" name="Mask group" x="0" y="0" width="198" height="222">
+            <vector id="411:1579" name="Vector" x="0" y="0" width="198" height="222" />
+            <vector id="411:1580" name="Vector" x="-49" y="0" width="299" height="224" />
+          </frame>
+          <frame id="411:1581" name="Frame 39787" x="0" y="234" width="261.29998779296875" height="87">
+            <text id="411:1582" name="Sophie Lambert" x="0" y="0" width="261.29998779296875" height="29" />
+            <text id="411:1583" name="Psychologue pour enfants et adolescents" x="0" y="35" width="261.29998779296875" height="52" />
+          </frame>
+        </frame>
+        <frame id="411:1584" name="Frame 39823" x="891.8999633789062" y="0" width="261.29998779296875" height="321">
+          <frame id="411:1585" name="Mask group" x="0" y="0" width="198" height="222">
+            <vector id="411:1586" name="Vector" x="0" y="0" width="198" height="222" />
+            <vector id="411:1587" name="Vector" x="-49" y="0" width="299" height="224" />
+          </frame>
+          <frame id="411:1588" name="Frame 39787" x="0" y="234" width="261.29998779296875" height="87">
+            <text id="411:1589" name="Marc André" x="0" y="0" width="261.29998779296875" height="29" />
+            <text id="411:1590" name="Formateur en pédagogie Montessori" x="0" y="35" width="261.29998779296875" height="52" />
+          </frame>
+        </frame>
+        <frame id="411:1591" name="Frame 39820" x="1189.199951171875" y="0" width="261.29998779296875" height="321">
+          <frame id="411:1592" name="Mask group" x="0" y="0" width="198" height="222">
+            <vector id="411:1593" name="Vector" x="0" y="0" width="198" height="222" />
+            <vector id="411:1594" name="Vector" x="-65.5" y="-12" width="315" height="236" />
+          </frame>
+          <frame id="411:1595" name="Frame 39787" x="0" y="234" width="261.29998779296875" height="87">
+            <text id="411:1596" name="Lucie Dupont" x="0" y="0" width="261.29998779296875" height="29" />
+            <text id="411:1597" name="Spécialiste en psychologie infantile" x="0" y="35" width="261.29998779296875" height="52" />
+          </frame>
+        </frame>
+        <frame id="411:1598" name="Frame 39824" x="1486.5" y="0" width="240.5" height="321">
+          <frame id="411:1599" name="Mask group" x="0" y="0" width="198" height="222">
+            <vector id="411:1600" name="Vector" x="0" y="0" width="198" height="222" />
+            <vector id="411:1601" name="Vector" x="-49" y="-18" width="323" height="242" />
+          </frame>
+          <frame id="411:1602" name="Frame 39787" x="0" y="234" width="240.5" height="87">
+            <text id="411:1603" name="Stéphane Bernard" x="0" y="0" width="240.5" height="29" />
+            <text id="411:1604" name="Consultante en éducation et pédagogie" x="0" y="35" width="240.5" height="52" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="395:4288" name="Frame 40127" x="0" y="5603.27587890625" width="1927" height="700">
+      <vector id="396:4307" name="Vector" x="100" y="0" width="1080" height="700" />
+      <frame id="395:4289" name="Frame 39772" x="1074" y="121.5" width="753" height="457">
+        <text id="395:4290" name="Bappoum — l&#39;accompagnement parental à ton rythme" x="24" y="24" width="705" height="108" />
+        <text id="395:4291" name="Parce que les doutes d&#39;un parent ne s&#39;arrêtent pas à 18h. Avec Bappoum, accède chaque mois à des lives, podcasts et ressources créés par des professionnels, depuis ton canapé, ta voiture ou ta cuisine. Tous les contenus disponibles en replay à vie." x="24" y="180" width="705" height="104" />
+        <frame id="395:4292" name="Frame 39782" x="175.18557739257812" y="332" width="402.62884521484375" height="101">
+          <frame id="411:1614" name="Frame 39770" x="0" y="0" width="402.62884521484375" height="101">
+            <instance id="411:1615" name="Découvrir Bappoum" x="0" y="0" width="402.62884521484375" height="50" />
+            <text id="411:1616" name="Sans engagement – Accès immédiat – Contenus créés par des professionnels." x="0" y="62" width="402.62884521484375" height="39" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="394:2816" name="Frame 39863" x="0" y="6447.27587890625" width="1927" height="514">
+      <frame id="394:2817" name="Frame 39865" x="71.5" y="0" width="1784" height="514" />
+    </frame>
+    <frame id="394:2754" name="Frame 39850" x="0" y="7105.27587890625" width="1927" height="708">
+      <frame id="394:2755" name="Frame 39851" x="100" y="0" width="641" height="708">
+        <frame id="394:2756" name="Frame 39855" x="0" y="0" width="641" height="221">
+          <text id="394:2757" name="Ce que les parents disent de leur accompagnement avec Bavardons Parentalité " x="0" y="0" width="641" height="162" />
+          <frame id="394:2758" name="Frame 40" x="0" y="174" width="567" height="47">
+            <text id="394:2759" name="250+ familles accompagnées · 35+ événements animés · 25+ ateliers organisés · 65 comptes actifs" x="0" y="0" width="387" height="47" />
+            <frame id="394:2760" name="Frame 39856" x="411" y="1.1379737854003906" width="156" height="44.72405242919922">
+              <frame id="394:2761" name="Frame 39739" x="0" y="0" width="156" height="44.72405242919922">
+                <ellipse id="394:2762" name="Ellipse 16" x="0" y="4.362026214599609" width="36" height="36" />
+                <ellipse id="394:2763" name="Ellipse 17" x="30" y="4.362026214599609" width="36" height="36" />
+                <ellipse id="394:2764" name="Ellipse 21" x="60" y="4.362026214599609" width="36" height="36" />
+                <ellipse id="394:2765" name="Ellipse 22" x="90" y="4.362026214599609" width="36" height="36" />
+                <ellipse id="394:2766" name="Ellipse 20" x="120" y="4.362026214599609" width="36" height="36" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="394:2767" name="Frame 39787" x="0" y="351" width="641" height="357">
+          <vector id="394:2768" name="Vector" x="16" y="16" width="280.5" height="325" />
+          <frame id="394:2769" name="Frame 39786" x="344.5" y="16" width="280.5" height="325">
+            <frame id="394:2770" name="Frame 39852" x="0" y="0" width="280.5" height="29">
+              <frame id="394:2771" name="Calque_1-2" x="0" y="6.5004425048828125" width="16.020755767822266" height="15.999114990234375" />
+              <text id="394:2777" name="Chloé Dubeau" x="26.020755767822266" y="0" width="254.479248046875" height="29" />
+            </frame>
+            <text id="394:2778" name="“Bavardons Parentalité a transformé notre quotidien familial. Les outils sont simples et efficaces.”" x="0" y="35" width="280.5" height="104" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="394:2779" name="Frame 39792" x="837" y="0" width="990" height="708">
+        <frame id="394:2780" name="Frame 39829" x="0" y="0" width="990" height="212">
+          <vector id="394:2781" name="Vector" x="16" y="16" width="250" height="180" />
+          <frame id="394:2782" name="Frame 39786" x="314" y="16" width="660" height="87">
+            <frame id="394:2783" name="Frame 39854" x="0" y="0" width="660" height="29">
+              <frame id="394:2784" name="Group 3" x="0" y="2.5" width="24.58223533630371" height="24" />
+              <text id="394:2790" name="Sophie Lemaire" x="34.582237243652344" y="0" width="625.4177856445312" height="29" />
+            </frame>
+            <text id="394:2791" name="“La plateforme Bappoum est une mine d&#39;informations et de conseils. Les lives sont interactifs et les podcasts très pratiques.”" x="0" y="35" width="660" height="52" />
+          </frame>
+        </frame>
+        <frame id="394:2792" name="Frame 39828" x="0" y="248" width="990" height="212">
+          <vector id="394:2793" name="Vector" x="16" y="16" width="250" height="180" />
+          <frame id="394:2794" name="Frame 39786" x="314" y="16" width="660" height="87">
+            <frame id="394:2795" name="Frame 39853" x="0" y="0" width="660" height="29">
+              <frame id="394:2796" name="Calque_1-2" x="0" y="6.5004425048828125" width="16.020755767822266" height="15.999114990234375" />
+              <text id="394:2802" name="Antoine Garnier" x="26.020755767822266" y="0" width="633.979248046875" height="29" />
+            </frame>
+            <text id="394:2803" name="“Grâce au coaching individuel, j&#39;ai appris à mieux gérer mes émotions et à communiquer avec mes enfants.”" x="0" y="35" width="660" height="52" />
+          </frame>
+        </frame>
+        <frame id="394:2804" name="Frame 39827" x="0" y="496" width="990" height="212">
+          <vector id="394:2805" name="Vector" x="16" y="16" width="250" height="180" />
+          <frame id="394:2806" name="Frame 39786" x="314" y="16" width="660" height="87">
+            <frame id="394:2807" name="Frame 39854" x="0" y="0" width="660" height="29">
+              <frame id="394:2808" name="Group 3" x="0" y="2.5" width="24.58223533630371" height="24" />
+              <text id="394:2814" name="Lucas Moreau" x="34.582237243652344" y="0" width="625.4177856445312" height="29" />
+            </frame>
+            <text id="394:2815" name="“Les ateliers ont renforcé notre lien parent-enfant. Une expérience inoubliable et enrichissante pour toute la famille !”" x="0" y="35" width="660" height="52" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="394:2864" name="Frame 39892" x="7" y="7957.27587890625" width="1920" height="1086">
+      <text id="394:2865" name="Questions fréquentes sur l&#39;accompagnement parental et la plateforme Bappoum" x="458.5" y="0" width="1003" height="108" />
+      <frame id="394:2866" name="Frame 39891" x="504" y="156" width="912" height="930">
+        <frame id="394:2867" name="Frame 39654" x="0" y="0" width="912" height="930">
+          <instance id="394:2868" name="FAQ" x="0" y="0" width="912" height="82" />
+          <instance id="394:2869" name="FAQ" x="0" y="106" width="912" height="82" />
+          <instance id="394:2870" name="FAQ" x="0" y="212" width="912" height="82" />
+          <instance id="394:2871" name="FAQ" x="0" y="318" width="912" height="82" />
+          <instance id="394:2872" name="FAQ" x="0" y="424" width="912" height="82" />
+          <instance id="394:2873" name="FAQ" x="0" y="530" width="912" height="82" />
+          <instance id="394:2874" name="FAQ" x="0" y="636" width="912" height="82" />
+          <instance id="394:2875" name="FAQ" x="0" y="742" width="912" height="82" />
+          <instance id="394:2876" name="FAQ" x="0" y="848" width="912" height="82" />
+        </frame>
+      </frame>
+      <frame id="394:2877" name="Calque_1-2" x="1743" y="-5.171875" width="106.47886224836111" height="106.59381198423944" />
+      <frame id="394:2883" name="Calque_1-2" x="175.171875" y="1040" width="106.59381198423944" height="106.47886224836475" />
+    </frame>
+    <frame id="394:2889" name="Frame 40000" x="7" y="9187.275390625" width="1920" height="978">
+      <frame id="394:2890" name="Frame 39999" x="100" y="0" width="972" height="118">
+        <text id="394:2891" name="Prise de contact avec Bavardons Parentalité" x="0" y="0" width="972" height="54" />
+        <text id="394:2892" name="Que tu cherches un abonnement, un coaching, une animation pour ton événement ou une intervention en entreprise — dis-nous ce dont tu as besoin, on revient vers toi sous 48h." x="0" y="66" width="972" height="52" />
+      </frame>
+      <frame id="394:2893" name="Frame 39997" x="100" y="166" width="1720" height="812">
+        <frame id="394:2894" name="Frame 39998" x="0" y="0" width="1720" height="788">
+          <frame id="394:2895" name="Frame 40001" x="0" y="0" width="812" height="788">
+            <text id="394:2896" name="Nous envoyer un message" x="224" y="0" width="364" height="42" />
+            <frame id="394:2897" name="Frame 39992" x="0" y="66" width="812" height="722">
+              <frame id="394:2898" name="Group 2" x="709.08984375" y="359.787109375" width="109.771484375" height="0.2900390625" />
+              <frame id="394:2901" name="Frame 39990" x="48" y="48" width="716" height="626">
+                <frame id="394:2902" name="Frame 39993" x="0" y="0" width="716" height="520">
+                  <frame id="394:2903" name="Frame 39995" x="0" y="0" width="716" height="112">
+                    <frame id="394:2904" name="Frame 39989" x="0" y="0" width="346" height="112">
+                      <text id="394:2905" name="Nom*" x="0" y="0" width="346" height="29" />
+                      <frame id="394:2906" name="Frame 39986" x="0" y="35" width="346" height="77">
+                        <text id="394:2907" name="trucmuche" x="24" y="24" width="298" height="29" />
+                      </frame>
+                    </frame>
+                    <frame id="394:2908" name="Frame 39991" x="370" y="0" width="346" height="112">
+                      <text id="394:2909" name="Prénom*" x="0" y="0" width="346" height="29" />
+                      <frame id="394:2910" name="Frame 39986" x="0" y="35" width="346" height="77">
+                        <text id="394:2911" name="trucmuche" x="24" y="24" width="298" height="29" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <frame id="394:2912" name="Frame 39987" x="0" y="136" width="716" height="112">
+                    <text id="394:2913" name="Votre email*" x="0" y="0" width="716" height="29" />
+                    <frame id="394:2914" name="Frame 39987" x="0" y="35" width="716" height="77">
+                      <text id="394:2915" name="trucmuche@gmail.com" x="24" y="24" width="237" height="29" />
+                    </frame>
+                  </frame>
+                  <frame id="394:2916" name="Frame 39990" x="0" y="272" width="716" height="112">
+                    <text id="394:2917" name="Téléphone" x="0" y="0" width="716" height="29" />
+                    <frame id="394:2918" name="Frame 39987" x="0" y="35" width="716" height="77">
+                      <text id="394:2919" name="trucmuche@gmail.com" x="24" y="24" width="237" height="29" />
+                    </frame>
+                  </frame>
+                  <frame id="394:2920" name="Frame 39988" x="0" y="408" width="716" height="112">
+                    <text id="394:2921" name="Besoins*" x="0" y="0" width="716" height="29" />
+                    <frame id="394:2922" name="Frame 39986" x="0" y="35" width="716" height="77">
+                      <text id="394:2923" name="trucmuche@gmail.com" x="24" y="24" width="237" height="29" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="394:2924" name="Frame 39866" x="0" y="568" width="716" height="58">
+                  <text id="394:2925" name="On vous rappelle" x="272.5" y="16" width="171" height="26" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="394:2926" name="Frame 39991" x="908" y="0" width="812" height="788">
+            <frame id="394:2927" name="Frame 39866" x="0" y="0" width="812" height="42">
+              <frame id="394:2928" name="Frame 39864" x="0" y="0" width="812" height="42">
+                <text id="394:2929" name="Réserve directement ta séance découverte offerte" x="0" y="0" width="812" height="42" />
+              </frame>
+            </frame>
+            <rounded-rectangle id="394:2930" name="image 167" x="0" y="78" width="812" height="710" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="411:2194" name="Frame 1171275622" x="7" y="10309.275390625" width="1920" height="1077">
+      <frame id="394:2931" name="Frame 39872" x="0" y="0" width="1920" height="633" />
+      <instance id="411:2014" name="Footer" x="0" y="633" width="1920" height="444" />
+    </frame>
+  </frame>
+  <instance id="394:3378" name="navbar" x="0" y="0" width="1920" height="128" />
+</frame>

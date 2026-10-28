@@ -12,3 +12,5 @@
 .item[open] .chev { transform: rotate(180deg); }
 .item p { padding: 0 24px 24px; color: var(--txt); }
 @media (max-width: 720px) { .item summary { padding: 18px 20px; min-height: 0; } }
+
+@media (max-width: 720px) { .faq > span[aria-hidden] { display: none; } }
