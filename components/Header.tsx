@@ -3,6 +3,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { Button, LINKS, Paw } from "./ui";
+import { useAuth } from "./auth/AuthProvider";
 import styles from "./Header.module.css";
 
 export const NAV = [
@@ -16,6 +17,13 @@ export const NAV = [
 export default function Header() {
   const path = usePathname();
   const [open, setOpen] = useState(false);
+  const { user, signOut } = useAuth();
+  const account = user ? (
+    <>
+      <Button href={LINKS.bappoum} variant="rose" large>Bonjour {user.firstname}</Button>
+      <button className={styles.logout} onClick={signOut}>Se déconnecter</button>
+    </>
+  ) : null;
   useEffect(() => setOpen(false), [path]);
 
   return (
@@ -34,13 +42,13 @@ export default function Header() {
           ))}
           <div className={styles.mobileCtas}>
             <Button href={LINKS.contact} variant="jaune-outline">Nous contacter</Button>
-            <Button href={LINKS.signup} variant="rose">Commencer gratuitement</Button>
+            {account ?? <Button href={LINKS.signup} variant="rose">Commencer gratuitement</Button>}
           </div>
         </nav>
 
         <div className={styles.ctas}>
           <Button href={LINKS.contact} variant="jaune-outline" large>Nous contacter</Button>
-          <Button href={LINKS.signup} variant="rose" large>Commencer gratuitement</Button>
+          {account ?? <Button href={LINKS.signup} variant="rose" large>Commencer gratuitement</Button>}
         </div>
 
         <button className={styles.burger} aria-expanded={open} aria-label="Menu" onClick={() => setOpen((o) => !o)}>

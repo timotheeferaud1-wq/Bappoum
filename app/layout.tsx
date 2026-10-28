@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import AuthProvider from "@/components/auth/AuthProvider";
 import "@fontsource/baloo-2/400.css";
 import "@fontsource/baloo-2/500.css";
 import "@fontsource/baloo-2/600.css";
@@ -24,9 +25,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="icon" href="/img/common/logo.png" />
       </head>
       <body>
-        <Header />
-        <main>{children}</main>
-        <Footer />
+        <AuthProvider>
+          <Header />
+          <main>{children}</main>
+          <Footer />
+        </AuthProvider>
       </body>
     </html>
   );
